@@ -1,0 +1,358 @@
+<?xml version="1.0"?>
+<TradeRoutes>
+
+    <TradeRoute Name="RBC_Naporar_Rapacc">
+		<Point_A>Naporar</Point_A>
+		<Point_B>Rapacc</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Bakura_Rattatak">
+		<Point_A>Bakura</Point_A>
+		<Point_B>Rattatak</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Naporar_Twilight_Void">
+		<Point_A>Naporar</Point_A>
+		<Point_B>Twilight_Void</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Odesson_Rattatak">
+		<Point_A>Odesson</Point_A>
+		<Point_B>Rattatak</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Celwis_Rhigar">
+		<Point_A>Celwis</Point_A>
+		<Point_B>Rhigar</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Perann_Nebula_Rhand">
+		<Point_A>Perann_Nebula</Point_A>
+		<Point_B>Rhand</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Dkee_Rennek">
+		<Point_A>Dkee</Point_A>
+		<Point_B>Rennek</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Nirauan_Pesfavri">
+		<Point_A>Nirauan</Point_A>
+		<Point_B>Pesfavri</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Endor_Rattatak">
+		<Point_A>Endor</Point_A>
+		<Point_B>Rattatak</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Csilla_Rhigar">
+		<Point_A>Csilla</Point_A>
+		<Point_B>Rhigar</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Bakura_Kammia">
+		<Point_A>Bakura</Point_A>
+		<Point_B>Kammia</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Copero_Iokath">
+		<Point_A>Copero</Point_A>
+		<Point_B>Iokath</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Dkee_Lwhekk">
+		<Point_A>Dkee</Point_A>
+		<Point_B>Lwhekk</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Copero_Csilla">
+		<Point_A>Copero</Point_A>
+		<Point_B>Csilla</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Lioan_Twilight_Void">
+		<Point_A>Lioan</Point_A>
+		<Point_B>Twilight_Void</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Dkee_Shree">
+		<Point_A>Dkee</Point_A>
+		<Point_B>Shree</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Kariek_Nirauan">
+		<Point_A>Kariek</Point_A>
+		<Point_B>Nirauan</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Kariek_Quethold">
+		<Point_A>Kariek</Point_A>
+		<Point_B>Quethold</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Adumar_Nirauan">
+		<Point_A>Adumar</Point_A>
+		<Point_B>Nirauan</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Rapacc_Syca">
+		<Point_A>Rapacc</Point_A>
+		<Point_B>Syca</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Odesson_Perann_Nebula">
+		<Point_A>Odesson</Point_A>
+		<Point_B>Perann_Nebula</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Celwis_Pesfavri">
+		<Point_A>Celwis</Point_A>
+		<Point_B>Pesfavri</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Makatak_Rakata">
+		<Point_A>Makatak</Point_A>
+		<Point_B>Rakata</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Rakata_Rhand">
+		<Point_A>Rakata</Point_A>
+		<Point_B>Rhand</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Bakura_Endor">
+		<Point_A>Bakura</Point_A>
+		<Point_B>Endor</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Nirauan_Syca">
+		<Point_A>Nirauan</Point_A>
+		<Point_B>Syca</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Pesfavri_Rapacc">
+		<Point_A>Pesfavri</Point_A>
+		<Point_B>Rapacc</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Kammia_Shree">
+		<Point_A>Kammia</Point_A>
+		<Point_B>Shree</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Bknos_Dkee">
+		<Point_A>Bknos</Point_A>
+		<Point_B>Dkee</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Oreen_Perann_Nebula">
+		<Point_A>Oreen</Point_A>
+		<Point_B>Perann_Nebula</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Naporar_Pesfavri">
+		<Point_A>Naporar</Point_A>
+		<Point_B>Pesfavri</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Makatak_Oreen">
+		<Point_A>Makatak</Point_A>
+		<Point_B>Oreen</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Rennek_Zakuul">
+		<Point_A>Rennek</Point_A>
+		<Point_B>Zakuul</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Perann_Nebula_Zakuul">
+		<Point_A>Perann_Nebula</Point_A>
+		<Point_B>Zakuul</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Iokath_Perann_Nebula">
+		<Point_A>Iokath</Point_A>
+		<Point_B>Perann_Nebula</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Nirauan_Valc">
+		<Point_A>Nirauan</Point_A>
+		<Point_B>Valc</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Bakura_Bknos">
+		<Point_A>Bakura</Point_A>
+		<Point_B>Bknos</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Pesfavri_The_Redoubt">
+		<Point_A>Pesfavri</Point_A>
+		<Point_B>The_Redoubt</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Celwis_Copero">
+		<Point_A>Celwis</Point_A>
+		<Point_B>Copero</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Csilla_Naporar">
+		<Point_A>Csilla</Point_A>
+		<Point_B>Naporar</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Lwhekk_Shree">
+		<Point_A>Lwhekk</Point_A>
+		<Point_B>Shree</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Quethold_Syca">
+		<Point_A>Quethold</Point_A>
+		<Point_B>Syca</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Csilla_Twilight_Void">
+		<Point_A>Csilla</Point_A>
+		<Point_B>Twilight_Void</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Lioan_Rapacc">
+		<Point_A>Lioan</Point_A>
+		<Point_B>Rapacc</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+
+
+</TradeRoutes>

@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<TradeRoutes>
+
+    <TradeRoute Name="RBC_Ambria_Onderon">
+		<Point_A>Ambria</Point_A>
+		<Point_B>Onderon</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Hapes_Zeltros">
+		<Point_A>Hapes</Point_A>
+		<Point_B>Zeltros</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Roqoo_Taanab">
+		<Point_A>Roqoo</Point_A>
+		<Point_B>Taanab</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Commenor_Zeltros">
+		<Point_A>Commenor</Point_A>
+		<Point_B>Zeltros</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Umbara_Zeltros">
+		<Point_A>Umbara</Point_A>
+		<Point_B>Zeltros</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Hapes_Relephon">
+		<Point_A>Hapes</Point_A>
+		<Point_B>Relephon</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Roqoo_Terephon">
+		<Point_A>Roqoo</Point_A>
+		<Point_B>Terephon</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Charubah_Gallinore">
+		<Point_A>Charubah</Point_A>
+		<Point_B>Gallinore</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Hapes_Terephon">
+		<Point_A>Hapes</Point_A>
+		<Point_B>Terephon</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Charubah_Hapes">
+		<Point_A>Charubah</Point_A>
+		<Point_B>Hapes</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Onderon_Zeltros">
+		<Point_A>Onderon</Point_A>
+		<Point_B>Zeltros</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Commenor_Onderon">
+		<Point_A>Commenor</Point_A>
+		<Point_B>Onderon</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Gallinore_Hapes">
+		<Point_A>Gallinore</Point_A>
+		<Point_B>Hapes</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Charubah_Relephon">
+		<Point_A>Charubah</Point_A>
+		<Point_B>Relephon</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Ambria_Zeltros">
+		<Point_A>Ambria</Point_A>
+		<Point_B>Zeltros</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Onderon_Umbara">
+		<Point_A>Onderon</Point_A>
+		<Point_B>Umbara</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+
+
+</TradeRoutes>

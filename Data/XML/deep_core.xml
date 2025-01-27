@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<TradeRoutes>
+
+    <TradeRoute Name="RBC_Kalist_Thomork">
+		<Point_A>Kalist</Point_A>
+		<Point_B>Thomork</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Hakassi_Kampe">
+		<Point_A>Hakassi</Point_A>
+		<Point_B>Kampe</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Empress_Teta_Prakith">
+		<Point_A>Empress_Teta</Point_A>
+		<Point_B>Prakith</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Odik_Prakith">
+		<Point_A>Odik</Point_A>
+		<Point_B>Prakith</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Kalist_Tsoss">
+		<Point_A>Kalist</Point_A>
+		<Point_B>Tsoss</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Eclipse_Tsoss">
+		<Point_A>Eclipse</Point_A>
+		<Point_B>Tsoss</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Abregado_Rae_Thomork">
+		<Point_A>Abregado_Rae</Point_A>
+		<Point_B>Thomork</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Empress_Teta_Tsoss">
+		<Point_A>Empress_Teta</Point_A>
+		<Point_B>Tsoss</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Coruscant_Kaikielius">
+		<Point_A>Coruscant</Point_A>
+		<Point_B>Kaikielius</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Kampe_Tsoss">
+		<Point_A>Kampe</Point_A>
+		<Point_B>Tsoss</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Doornik_Odik">
+		<Point_A>Doornik</Point_A>
+		<Point_B>Odik</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Ebaq_Hakassi">
+		<Point_A>Ebaq</Point_A>
+		<Point_B>Hakassi</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Empress_Teta_Kaikielius">
+		<Point_A>Empress_Teta</Point_A>
+		<Point_B>Kaikielius</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Eclipse_Kalist">
+		<Point_A>Eclipse</Point_A>
+		<Point_B>Kalist</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Kalist_Prakith">
+		<Point_A>Kalist</Point_A>
+		<Point_B>Prakith</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Nzoth_Odik">
+		<Point_A>Nzoth</Point_A>
+		<Point_B>Odik</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Byss_Prakith">
+		<Point_A>Byss</Point_A>
+		<Point_B>Prakith</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Doornik_Nzoth">
+		<Point_A>Doornik</Point_A>
+		<Point_B>Nzoth</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Empress_Teta_Tython">
+		<Point_A>Empress_Teta</Point_A>
+		<Point_B>Tython</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Ebaq_Had_Abbadon">
+		<Point_A>Ebaq</Point_A>
+		<Point_B>Had_Abbadon</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+    <TradeRoute Name="RBC_Had_Abbadon_Tsoss">
+		<Point_A>Had_Abbadon</Point_A>
+		<Point_B>Tsoss</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+
+
+</TradeRoutes>

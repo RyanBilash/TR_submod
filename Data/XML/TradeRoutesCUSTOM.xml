@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<TradeRoutes>
+
+    <TradeRoute Name="Abeloth_World_Kesh">
+		<Point_A>Abeloth_World</Point_A>
+		<Point_B>Kesh</Point_B>
+		<HS_Speed_Factor>1.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+
+</TradeRoutes>

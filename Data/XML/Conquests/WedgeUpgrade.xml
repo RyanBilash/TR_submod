@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+
+<Story>
+
+	<!--The branch disabling is needed because STORY_TACTICAL_DESTROY can't differentiate actual tactical death versus scripted REMOVE_UNIT for Wedge.-->
+	<Event Name="Build_Wedge_Lusankya">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>Wedge_Lusankya</Event_Param1>
+		<Event_Param2>1</Event_Param2>
+		<Event_Param3>Rebel</Event_Param3>
+		<Reward_Type>DISABLE_BRANCH</Reward_Type>
+		<Reward_Param1>Branch_Monitor_Wedge_Rogue_Death</Reward_Param1>
+		<Reward_Param2>1</Reward_Param2>
+	</Event>
+
+	<!--Wedge_Lusankya can still be built even if Rogue Squadron was killed; this prevents Tycho from spawning in that case.-->
+	<!--Tycho is spawned via Lua to allow spawning on Wedge's location.-->
+	<Event Name="Spawn_Tycho_Celchu_Rogue_Team">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Prereq>Build_Wedge_Lusankya</Prereq>
+	</Event>	
+
+</Story>
