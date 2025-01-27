@@ -1,0 +1,484 @@
+  _______ _                              _       _____                                 
+ |__   __| |                            ( )     |  __ \                                
+    | |  | |__  _ __ __ ___      ___ __ |/ ___  | |__) |_____   _____ _ __   __ _  ___ 
+    | |  | '_ \| '__/ _` \ \ /\ / / '_ \  / __| |  _  // _ \ \ / / _ \ '_ \ / _` |/ _ \
+    | |  | | | | | | (_| |\ V  V /| | | | \__ \ | | \ \  __/\ V /  __/ | | | (_| |  __/
+    |_|  |_| |_|_|  \__,_| \_/\_/ |_| |_| |___/ |_|  \_\___| \_/ \___|_| |_|\__, |\___|
+                                                                             __/ |     
+                                                                            |___/     
+																			
+________________________________________________________________________________________________
+
+This changelog covers all of the major changes, but is not exhaustive.
+
+___________________________________________________________________________________________________
+
+
+GALACTIC MAP:
+- Added Large versions of Known and Full Galaxy GC maps
+- Added new GC type - Regional Progressives: Borderlands Regions, Western Reaches
+- All progressive galactic conquest maps rebuilt:
+-- Small, Medium, Large known and full galaxy maps, eras 1-7, each with different planet sets - 42 total maps.
+-- Includes initial setup for future playable factions (Yevetha, Killiks, Ssi-Ruuvi, Corellians, Hutts)
+- Reworked Corporate Acquisitions layout across eras.
+- Added era 7 start for Greater Maldrood
+- Removed all starting Super Star Destroyers in progressives and replaced with upgrades:
+-- On progressive maps Isard/Zsinj/Kaine/Rogriss will not start in their SSDs and have to be upgraded into them at a Tier 4 yard or Coruscant for Isard's Lusankya.
+--- Ysanne Isard (Economic/Spy -> Executor, Lusankya)
+--- Ardus Kaine (Economic -> Executor, Reaper)
+--- Zsinj (VSD-I, Iron Fist -> Executor, Iron Fist)
+--- Teren Rogriss (Pellaeon's Regime)(ISD-1 -> Bellator, Dominion)
+- Re-enabled Operation Shadow Hand and From the Ground Up as Empire
+- Quality of life changes for FTGU maps:
+-- Traderoutes adjusted across all GCs (Fixes overlapping & especially long routes)
+-- Minor planet shifts in ownership and placement
+-- Additional AI factions added across all map variants
+-- Different starting planets for NR (Bothawui), CSA (Bonadan), EotH (Syca), Zsinj's Empire (Serenno) and Pentastar Alignment (Bastion)
+-- Readjusted starting forces and buildings for all playable factions
+
+
+NEW GAMEMOODE - SURVIVAL
+- Survive against increasingly difficult waves of enemy ships as either the Empire or New Republic
+
+
+TACTICAL SYSTEMS:
+- Shipyard garrisons spawn with other defending forces
+- Faction's capital (on ground) works as Planetary Shield
+- New landing zone & Victory point models. 
+-- Displays pop cap number in all capture states
+-- Each faction has a unique factional icon
+-- Transition animation between capture states
+
+
+GALACTIC MECHANICS:
+- Economy updates:
+-- Food / Parts resources removed
+-- Infrastructure score added (based primarily on filled/empty structure slots- full breakdown on ingame resource guide)
+-- Ship upkeep moved from XML to LUA
+-- Pop cap recalculated on the galactic level- two tiers of anchorages added to increase pop cap.
+-- Costs of starbases recalculated
+- Additional victory conditions:
+-- Shipyard Victory: Control all level 3 & 4 shipyards.
+- Recruit AI income capped (only when Cruel is off)
+- Tyber Zann will respawn in an Interceptor IV after his initial death.
+- Corporate Sector Authority can now recruit a bounty hunter hero.
+- Added alternative upgrade for Pellaeon (during his regime): Mandator-III, Megador
+- Different starting CoS for NR in certain era starts and historicals:
+-- Mon Mothma - era starts: 1-5
+-- Leia - era starts: 6-7
+- Booster Terrik: removed despawn in era 7
+- Delayed certain research/story events:
+-- Terrik's Upgrade: 19 ABY Month 6
+-- Thrawn's Clone: 19 ABY Month 8
+-- Mediator Battle Cruiser/Mon Calamari Heavy Carrier Research: 22 ABY
+- Officer Academy updates:
+-- Expanded generic commander roster for all factions
+-- Expanded planet list: Anaxes, Carida, Corulag, Manda, Peregrine, Pesfavri, Prefsbelt, Rhigar, Terephon
+- Added ground versions of generic Hapan heroes, in addition to space Battle Dragon heroes
+
+
+ERAS, REGIMES & LEGITIMACY
+- Factions no longer have their progression tied to the Empire's leaders (regimes)
+-- Time passes in months and years, certain research and events are tied to year progression
+- Imperial regimes are no longer time-limited
+- Central Committee of Grand Moffs added as alternative option to Isard
+- Dark Empire no longer progresses from Thrawn
+- Warlord Trait prevents Imperial Integration
+- Any Imperial faction can get Dark Empire (as well as Jax, Daala and Pellaeon progression)
+-- Requires 2 integrated Warlords, or integrating just the Empire, along with a legitimacy score of 60% or higher
+- Integration rewards (available to any Post-DE Empire):
+-- Eriadu Authority: Upgrade for Daala to Executor SSD, Knight Hammer (Daala's Regime-only)
+-- Pentastar Alignment: Upgrade for Pellaeon to Executor SSD, Reaper (Pellaeon's Regime-only)
+
+JEDI COMMAND STAFF
+- Republic Command Staff includes a Jedi category. Luke is excluded:
+   Kyle Katarn, Mara Jade, Corran Horn, Cilghal
+  
+NEW UNITS:
+- CompForce Assault Platoon		 [IMPERIALS] - Dark Empire
+- Chrysalide Beast                	 [IMPERIALS] - Dark Empire
+- Shielded TIE Droid			 [IMPERIALS] - Dark Empire - loadout for Klev's WDs and Eclipse 
+- Shadow Droid (Light)			 [IMPERIALS] - Dark Empire
+- Shadow Droid (Heavy)			 [IMPERIALS] - Dark Empire
+- Hunter-Killer Probot            	 [IMPERIALS] - Dark Empire
+- World Devastator Frigate       	 [IMPERIALS] - Dark Empire
+- World Devastator Capital        	 [IMPERIALS] - Dark Empire
+- World Devastator Battlecruiser  	 [IMPERIALS] - Dark Empire
+- Navy Commando				 [EMPIRE] - Stormtrooper's replacement in Isard's Revenge GC
+- Elite Guard Stormtrooper 		 [EMPIRE] - Capital Garrison
+- Dark Trooper Phase 2 			 [EMPIRE] - Spawns from Tal Ashen
+- A5-RX                           	 [EMPIRE] - Deep Core Conflict Only
+- PX-10 Compact Assault Vehicle		 [EMPIRE] - Central Committee of Grand Moffs (Locks AT-PT Walker)
+- Treaded Neutron Torch 		 [EMPIRE] - Central Committee of Grand Moffs
+- Ye-4 Gunship				 [EMPIRE] - Central Committee of Grand Moffs (Locks Beta ETR-3)
+- Beta ETR-3				 [EMPIRE] - Replaced Gamma ATR-6 in core roster
+- I-BEAM Star Fighter			 [ZSINJ/Revolts]
+- Defiler				 [ZSINJ] - Can be built on Urai Fen's location (1/∞)
+- Imperial IntSec Operator 	  	 [PENTASTAR/ZSINJ] - Starting Forces
+- ISB Infiltrator			 [ERIADU/MALDROOD] - Starting Forces
+- Stormtrooper Weapons Specialist	 [MALDROOD] - Kayn Somos' escort
+- NR Infiltrator			 [NEW REPUBLIC] - Field Base
+- SRV1					 [NEW REPUBLIC]
+- MAS-2xB Self-Propelled Turbolaser      [NEW REPUBLIC] - Starting Forces
+- Agave Corvette			 [NEW REPUBLIC]
+- Warrior Gunship			 [NEW REPUBLIC]
+- Marauder Missile Cruiser		 [NEW REPUBLIC] - Starting Forces
+- Belarus				 [NEW REPUBLIC]
+- Alliance Assault Frigate MK2	  	 [NEW REPUBLIC] - Starting Forces
+- Royal Favoured Guard  		 [HAPANS] - Capital Garrison
+- House Miy'til				 [HAPANS]
+- Patrol Miy'til			 [HAPANS]
+- Flare Corvette			 [HAPANS]
+- Lucrehulk Core Destroyer               [CSA] - Ship Market
+- Heavy Espo Trooper             	 [CSA] - Starting forces, Field Base
+- CA Artillery                   	 [CSA]
+- MorningStar A/B/C              	 [HUTTS]
+- Light Minstrel                 	 [HUTTS]
+- Heavy Minstrel           		 [HUTTS]
+- Ubrikkian Frigate	   		 [HUTTS]
+- Kaloth Battlecruiser           	 [HUTTS]
+- Barabbula Frigate                	 [HUTTS]
+- Juvard Frigate                   	 [HUTTS]
+- Kossak                                 [HUTTS]
+- Flare-S Swoop                          [HUTTS]
+- AST-5 Armored Sentinel Transport       [HUTTS]
+- VAAT                            	 [HUTTS / CORELLIA] - Abandoned Factories
+- BTL-S1 Y-wing				 [CORELLIA]
+- Starbolt Assault Carrier		 [CORELLIA]
+- Proficient Light Cruiser 		 [CORELLIA]
+- Proficient Light Cruiser Tender	 [CORELLIA]
+- Teklos                                 [CORELLIA]
+- Wurrif                          	 [SSI]
+- Shree                           	 [SSI]
+- Lwhekk                          	 [SSI]
+- Swarm Droid                     	 [SSI]
+- Ssi-Ruuvi Troopers             	 [SSI]
+- General Purpose Attack Fighter         [INFLUENCE] - Bakura
+- Kom'rk Gunship                  	 [INFLUENCE] - Mandalore
+- X-1 Viper                      	 [INFLUENCE] - Balmorra
+- SD-9                            	 [INFLUENCE] - Balmorra
+- SD-10                           	 [INFLUENCE] - Balmorra
+- PDF Tactical Unit - Revolts
+- Guardian Cruiser (Lasers) - Revolts
+- Neutron Star Tender - Revolts
+- Super Transport VI/VII/VII Interdictor/XI/XI Modified - Revolts
+- Liberty Transport Cruiser - Revolts
+- Home One Exploration Cruiser - Revolts
+
+
+NEW HEROES:
+- Raveen             			[LEGITIMACY] - Raveen Group (ISD I)
+- Tzenkens           			[LEGITIMACY] - Tierfon Group (Praetor II)
+- Derran Takar       			[LEGITIMACY] - Dolis III Group (Econ)
+- Anlys Takar        			[LEGITIMACY] - Dolis III Group (Spy)
+- Gatecrashers       			[LEGITIMACY] - Dolis III Group (Stormtrooper Squad)
+- Chik Apla          			[LEGITIMACY] - Dolis III Group (Royal Guard)
+- Grot			     			[LEGITIMACY] - Restuss Group (Acclamator I Carrier)
+- Exov              			[LEGITIMACY] - Restuss Group (Stormtrooper)
+- Octo              			[LEGITIMACY] - Restuss Group (Storm Commando)
+- Roth              			[LEGITIMACY] - Restuss Group (Stormtrooper)
+- Kedler             			[LEGITIMACY] - Sellasas Group (Secutor)
+- Jedselk            			[LEGITIMACY] - Sellasas Group (PX-4)
+- Amara Jedselk      			[LEGITIMACY] - Sellasas Group (A9 Fortress)
+- Sebastian Parnell  			[LEGITIMACY] - Sil'lume Group (Super Transport XI Bulk Cruiser)
+- Niclara Varnillian 			[LEGITIMACY] - Pulsar Group (Quasar + Escort)
+- Dor Reder          			[LEGITIMACY] - Pulsar Group (Tector)
+- Lynch Hauser       			[LEGITIMACY] - Vogel 7 Group (A9 Fortress)
+- Trommer            			[LEGITIMACY] - Vogel 7 Group (ISD II)
+- Malfkla Yzu        			[LEGITIMACY] - Sector 5 Group (Communications Battlecruiser)
+- Cinzero Gann       			[LEGITIMACY] - Sector 5 Group (A6 Juggernaut)
+- Foga Brill         			[LEGITIMACY] - Sector 5 Group (Treaded Neutron Torch)
+- Utoxx Prentioch    			[LEGITIMACY] - Prentioch Group (ISD II)
+- Dyrra              			[LEGITIMACY] - Prentioch Group (Scout Trooper)
+- Babel Torsch       			[LEGITIMACY] - Minos Cluster (Tector)
+- Cha Raas           			[LEGITIMACY] - Minos Cluster (Spy)
+- Tal Ashen				[EMPIRE] - Pestage and Isard (AT-AT with Dark Trooper P2 spawns)
+- Devlia				[EMPIRE] - Isard (Imperial Escort Carrier)
+- Hissa					[EMPIRE] - Central Committee of Grand Moffs (Moffship)
+- Trioculus				[EMPIRE] - Central Committee of Grand Moffs (Slavelord)
+- Dunhausen			 	[EMPIRE] - Central Committee of Grand Moffs (Neutron Star)
+- Thistleborn		 		[EMPIRE] - Central Committee of Grand Moffs (Vindicator)
+- Muzzer			 	[EMPIRE] - Central Committee of Grand Moffs (Ton-Falk)
+- Lanox				 	[EMPIRE] - Central Committee of Grand Moffs (VSD-2)
+- Tigellinus		 		[EMPIRE] - Central Committee of Grand Moffs (ISD-2)
+- Jmanuel Tethys			[EMPIRE/MINOR WARLORDS] - Final Imperial Push / Era 6 Deep Core Conflict (Gorath Strike Cruiser)
+- Bliss Shargael			[EMPIRE/MINOR WARLORDS] - Final Imperial Push / Deep Core Conflict (AT-TE)
+- Titus Klev		 		[DARK EMPIRE] - (World Devastator Destroyer > World Devastator Battlecruiser)
+- Daala (Knight Hammer)			[POST-DARK EMPIRE] - Daala's Regime, EA's Integration Reward upgrade for Daala
+- Pellaeon (Reaper)			[POST-DARK EMPIRE] - Pellaeon's Regime, PA's Integration Reward upgrade for Pellaeon
+- Pellaeon (Megador)			[POST-DARK EMPIRE] - Pellaeon's Regime, Alternative upgrade for Pellaeon
+- Teren Rogriss (Dominion)		[POST-DARK EMPIRE] - Pellaeon's Regime, upgrade for Rogriss
+- Coross			 	[PENTASTAR] - Era 4+ (Modified ISD II)
+- Tanniel			 	[MALDROOD] - (Imperial APC)
+- Cass Maston		 		[MALDROOD] - (Commando/Spy)
+- Slagorth 		 		[ZSINJ] - Random Pirate - Legend Tier (Space ARC Cruiser)
+- Labansat			 	[IMPERIALS/CSA] - (Bounty Hunter)
+- Menndo			 	[IMPERIALS/CSA] - (Bounty Hunter)
+- Dej Vennor		 		[IMPERIALS/CSA] - (Bounty Hunter)
+- Snoova			 	[IMPERIALS/CSA] - (Bounty Hunter)
+- Lorka Gedyc		 		[IMPERIALS] - (Mandalore conquest reward)
+- Fenn Shysa		 		[NEW REPUBLIC] - (Mandalore conquest reward)
+- Aarica Vost		 		[CSA] - Era 4+ Corporate Acquisitions (Commando/Spy)
+- Larin Vost				[CSA] - Era 4+ Corporate Acquisitions (Aratech Battle Platform)
+
+
+NEW ART:
+- Radiation Zone/Radtroopers - volcanic skin for Stormtroopers
+- New icons - various heroes
+
+
+UPDATED ART:
+- AAC-1/AAC-2
+- Carnor Jax
+- Kossak 
+- Praetor II
+- Praetor Carrier
+- Blue Diver
+- Viscount Prototype
+- Viscount
+
+
+NEW FAUNA
+- Terentatek
+- Ancient Sith Behemoth
+
+
+NEW DEATH ANIMATIONS:
+- Acclamator I
+- Acclamator Leveler
+- Acclamator II
+- Aggressor + Tyber Merciless
+- Alliance Assault Frigate MKII
+- Altor
+- Arquitens
+- Ascendancy
+- Bakura
+- Bothan Assault Carrier
+- Bulwark
+- Bulwark II
+- Bulwark III
+- Captor
+- Communications Battlecruiser
+- Dragon-class Heavy Cruiser
+- Golan I Colony
+- Invincible
+- ISD I
+- ISD II
+- ISD Tector
+- ISD Admonitor
+- ISD Errant Venture
+- ISD Grey Wolf
+- ISD Singularity
+- Imperial Escort Carrier
+- Keldabe
+- MC40a
+- MC75
+- Munificent
+- Peltast
+- Praetor Carrier
+- Praetor II
+- Prolipsi
+- Swift Assault
+- T3
+- Tagge
+- Ton-Falk Escort Carrier
+- TX130
+- Venator
+- Victory I Star Destroyer
+- Victory II Star Destroyer
+- Victory II Crimson
+- Victory II Hazard
+- Viscount Prototype
+- XQ-5
+
+
+NEW HOLOGRAM ART: (Thanks to Augustine Gayer)
+- Odumin
+- Teneniel Djo
+- Ackbar
+- Booster Terrick
+- Borsk Fey'lya
+- Ta'a Chume
+- Natasi Daala
+- Sander Delvardus
+- Firwirrung
+- Ponc Gavrisom
+- Navik the Red
+- Sian Tevv
+- Jenssar SoBilles
+- Viqi Shesh
+- Josef Grunger
+- Gaen Drommel
+- Han Solo
+- Blitzer Harrsk
+- Bertrand Hissa
+- Army Officer
+- Naval Officer
+- Ysanne Isard
+- ISB Officer
+- Chik Apla
+- Carnor Jax
+- Jerec
+- Ardus Kaine
+- Talon Karrde
+- Kosh Teradoc
+- Delak Krennel
+- Lando Calrissian
+- Leia Organa Solo
+- Luke
+- Lumiya
+- Afsheen Makati
+- Melvar
+- Mon Mothma
+- Nil Spaar
+- Palpatine Reborn
+- Voss Parck
+- Gilad Pellaeon
+- Sate Pestage
+- Raptor Trooper
+- Shadowspawn
+- Ssi-Ruuk
+- Stormtrooper Officer
+- Peccatti Syn
+- Tetran Cowell
+- Thrawn
+- Treuten Teradoc
+- Trioculus
+- Wedge Antilles
+- Zorba
+- Zsinj
+
+NEW UNIT AUDIO:
+- Joruus C'baoth
+- Sander Delvardus
+- Ardus Kaine
+- Zsinj
+- Treuten Teradoc
+- MTC variants
+- Dragon-cruiser
+- Mandator II/III
+- XR-85
+- Various Hapan units
+- Secutor/Praetor
+- Providence/Recusant (CSA)
+- Lucrehulk (CSA)
+
+EXTRA OPTIONS:
+- Additional options available via button above galactic stats charts
+-- Canon Units option:
+--- Added MC75 and Starhawk as buildable units for New Republic
+--- Added Raddus (MC75) and Hera Syndulla (Starhawk) as command staff for New Republic
+-- Fractalsponge Units option:
+--- Added Impellor as buildable unit for Empire
+- Cruel AI can be disabled after enabling via this option
+
+
+QUALITY OF LIFE:
+- Reduced initial loading times through file clean up and error fixing
+- Galactic log and tech trees cleaned up & updated
+- All planet texts and descriptions have been cleaned up & updated
+-- Added information about influence units & preferred revolt faction to planet descriptions
+- Battle loading screens have been cleaned up & updated
+- GC selection screen rearranged
+
+REDONE WEAPON PARTICLES & EFFECTS
+UPDATED ICONOGRAPHY
+
+NEW PROP SETS:
+- Onderon
+- Christophsis
+___________________________________________________________________________________________________
+
+NEW MAP LIST
+___________________________________________________________________________________________________
+
+NEW GALACTIC CONQUEST GROUND MAPS:
+	-- Non-exhaustive depending on what missing content mappers fill in
+
+- _MOD_LAND_ALDHANI_MILITARY_DAM | Corvis_Minor, Lioan, New_Alderaan
+- _MOD_LAND_ARCTIC | Ilum, Traval_Pacor
+- _MOD_LAND_BALMORRA_XTR_INDUSTRIAL | Balmorra, Bescane, Ession, Fenel
+- _MOD_LAND_BASSADRO_VOLCANIC | Bassadro, Exodo, Turak
+- _MOD_LAND_BONADAN_XTR_URBAN | Bomis_Koori, Bonadan, Cantonica, Xa_Fel
+- _MOD_LAND_BORLEAIS_TEMPERATE | Borleias, Essien, Teth
+- _MOD_LAND_BOTHAWUI_URBAN_HARBOUR | Bothawui
+- _MOD_LAND_BYBLOS_URBAN_UTOPIA | Byblos, Hapes, Ixtlar, Manda
+- _MOD_LAND_CHRISTOPHSIS | Christophsis
+- _MOD_LAND_COLUMUS_TEMPERATE_EDIT | Atchorb, Columus, Da_Soocha, Thustra
+- _MOD_LAND_DARKFALL_XTR_RED_FOREST | Concord_Dawn, Malastare, Nirauan
+- _MOD_LAND_DRAGON_STAR_XTR_BARREN | Bormter, Gravan, Ord_Vaug, Rago
+- _MOD_LAND_EBAQ_9_XTR_GRAY_MOON | Ebaq, Kinoss, Polis_Massa, Thule
+- _MOD_LAND_FLORRUM_PIRATE_DESERT | Florrum
+- _MOD_LAND_GALANTOS_XTR_URBAN | Galantos, Oristrom, Sy_Myrth, Ton_Falk
+- _MOD_LAND_GENERIC_JUNGLE | Jomark, Rion
+- _MOD_LAND_HOTH_ECHO_BASE | Hoth
+- _MOD_LAND_JUNGLE_PENINSULA | Ajan_Kloss, Maryo
+- _MOD_LAND_KASHYYYK_02 | Kashyyyk
+- _MOD_LAND_LIANNA_SFS_URBAN_UTOPIA | Lianna
+- _MOD_LAND_MAGICPINKGASGIANT_XTR_FLOATING_ROCKS | Fwsen, Qoribu
+- _MOD_LAND_MIRRORLAKE_XTR | Murgo, Nam_Chorios, Rhand
+- _MOD_LAND_MUGG_FALLOW_DEAD_XTR | Basilisk, Hijarna, Mugg_Fallow
+- _MOD_LAND_NORTHERNTERROR_XTR_ARCTIC | Anx_Minor, Bormus, Delacrix, Shogun
+- _MOD_LAND_NUBLAR_TEMPERATE | Chasin, Lwhekk, Talus_Tralus, Vanquo
+- _MOD_LAND_OJOM_SPACE_STATION_XTR_SPACE | Gymelo, Ojom, Vrosynri
+- _MOD_LAND_PASHVI_BRIGIA_XTR_BLUE_SAVANNAH | Brigia, Pashvi, Sarrish
+- _MOD_LAND_RISHI_JUNGLE_BEACH_XTR | Abregado_Rae, Gamorr, Rishi
+- _MOD_LAND_RM03_EDIT_DESERT | Bimmiel, Casfield, Colla, Garos
+- _MOD_LAND_ROTHANA_ARCTIC | Dolomar, Nath_Goordi, Rothana
+- _MOD_LAND_RYLOTH_DESERT_URBAN | Ryloth
+- _MOD_LAND_SAFFALORE_TEMPERATE | Ansion, Crustai, Saffalore, Saijo, Thyrsus
+- _MOD_LAND_SAND_SEA_STATION_DESERT_XTR | Cejansij, Makem_Te, Rattatak, Solitair
+- _MOD_LAND_SAND_SEA_STATION_SWAMP_XTR | Murkhana, Terephon, Toydaria
+- _MOD_LAND_SITHTEMPLE_XTR_JUNGLE | Begeren, Boz_Pity, Kammia, Tund
+- _MOD_LAND_TANGRENE_XTR_BARREN | Flashpoint, Iol, Kauron, Tangrene
+- _MOD_LAND_TROPICAL | Kabal, Peregrine, Reecee
+- _MOD_LAND_UKIO_FARMLAND | Garqi, Ukio, Alaris
+- _MOD_LAND_VALLEY_JUNGLE | Deko_Neimoidia, Maridun, Shree
+- _MOD_LAND_VALLEY_TEMPERATE | Lyran, Mrlsst
+- _MOD_LAND_XELPHATOL_XTR_MOUNTAIN_RIVER | Althir, Comra, Ryndellia, Skye
+- _MOD_LAND_YAGDHUL_VOLCANIC | Halmad, Vjun, YagDhul
+- _MOD_LAND_YINCHORR_DESERT | Herdessa, Yinchorr
+- _MOD_LAND_YLESIA_XTR_GENERIC_JUNGLE | Catlia, Clakdor, Praadost, Pantora
+
+
+NEW GALACTIC CONQUEST SPACE MAPS:
+	-- Non-exhaustive depending on what missing content mappers fill in
+
+- _MOD_SPACE_ANAXES_CONTINENTAL_PURPLE_01_LOW_SHIPYARDS_A | Anaxes
+- _MOD_SPACE_BESPIN_IN_ATMOSPHERE_GAS_01_SHIPYARDS | Bespin
+- _MOD_SPACE_CHRISTOPHSIS_BLUEECUMENOPOLIS_01_LOW_SHIPYARDS_AN | Antemeridias, Christophsis
+- _MOD_SPACE_COMMENOR_BARREN_01_HIGH_MOON_LOW_A | Commenor
+- _MOD_SPACE_FLORRUM_DESERT_01_LOW_A | Daluuj, Florrum, Troukree, Udray, Vaklin
+- _MOD_SPACE_GENERIC_BARREN_01_LOW_A | Parnassos, Sanrafsix, Solem
+- _MOD_SPACE_GENERIC_BARREN_01_LOW_SHIPYARDS_AN | Herdessa, Metalorn, Ringneldia, Ronyards
+- _MOD_SPACE_GENERIC_BARREN_02_LOW_A | Explume_Minor, Formos, Ord_Cestus
+- _MOD_SPACE_GENERIC_BARREN_02_LOW_SHIPYARDS_AN | Genon, Halthor, Kalaan, Kile, Tar_Morden
+- _MOD_SPACE_GENERIC_BLUEECUMENOPOLIS_01_LOW_SHIPYARDS_AN | Kaikielius, Kostra, Lianna, Taris
+- _MOD_SPACE_GENERIC_CONTINENTAL_01_LOW_SHIPYARD_RING_AN | Moonus_Mandel
+- _MOD_SPACE_GENERIC_ICE_01_LOW_A | Columus, Gymelo, Lonnaw, Quell, Roxuli, Xeron
+- _MOD_SPACE_GENERIC_MOUNTAIN_01_LOW_D | Darkon, Gestron, Nouane, Tynna, Wroona
+- _MOD_SPACE_GENERIC_NEBULA_HUGE_02_N | Black_Bantha_Nebula, Cauldron_Nebula, Kaliida_Nebula, Transitory_Mists_I
+- _MOD_SPACE_GENERIC_OCEANFOREST_01_LOW_SHIPYARDS_AN | Elrood, Hapes, Thyrsus
+- _MOD_SPACE_GENERIC_ORANGECRATERS_01_LOW_SHIPYARDS_N | Brentaal, Handooine, Rduba
+- _MOD_SPACE_GENERIC_PLANETOID_01_HIGH_A | AX456, Ord_Pardron, Polis_Massa
+- _MOD_SPACE_GENERIC_TWIN_PLANET_FOREST_TEMPERATE_01_HIGH_SHIPYARDS_AN | Bpfassh, Talus_Tralus
+- _MOD_SPACE_GRAVEYARD_ASTEROID_FIELD_01_AN | Cron_Drift, Faras_Belt, Twilight_Void
+- _MOD_SPACE_KUAT_OCEANFOREST_01_LOW_SHIPYARD_RING_AN | Kuat
+- _MOD_SPACE_MUSTAFAR_OCEAN_01_LOW_VOLCANIC_MOON_A | Manda, Mustafar, Turak
+- _MOD_SPACE_RINGO_VINDA_BARREN_01_LOW_SHIPYARD_RING_AN | Ringo_Vinda
+- _MOD_SPACE_RYLOTH_DESERT_01_LOW_A | Jakku, Movris, Ryloth, Thomork, Vulpter
+- _MOD_SPACE_SARVCHI_DESERT_01_LOW_A | Cattamascar, Cejansij, Chorax, Nar_Haaska, Sarvchi
+- _MOD_SPACE_SLUIS_VAN_DESERT_01_LOW_SHIPYARDS_N | Foerost, Sluis_Van
+
+
+NEW SKIRMISH MAPS:
+	-- Non-exhaustive depending on what missing content mappers fill in
+
+- Attack on Aldhani
+- Echo Base Assault
+- Isla Nublar
+- Saffalore Struggle
+- Tropical Turmoil
+- Battle of Ukio
+- Valley Rumble
+- Pallet Town

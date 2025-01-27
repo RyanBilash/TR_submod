@@ -1,0 +1,102 @@
+CREDITS: (OUTSIDE OF THRAWN'S REVENGE TEAM)
+(Additional voice credits in another file)
+
+
+CAMILLE
+- EotH tank designs (RFT, Gilzean)
+
+PRITEEBOY
+- Gas giant textures
+
+OPTIKZ:
+- High res skydome textures
+
+DRAGONSHADOW
+- Empire of the Hand symbol design
+
+NASA
+- cloud map and base nebulae
+
+SYNAX
+- base Apophysis renders (http://synax444.deviantart.com/)
+
+QUEBEC DUG
+- Nebulae  ( http://empireatwar.filefront.com/file/_QDNebulaePackV10;80368 )
+
+FARSEER:
+- Miy'til Bomber
+- Corran Horn (w/ SIDIOUS INVADER for animations)
+- Brakiss
+
+SJETI, JENSP, SKYBASE, MUHZNIT, ANNA, KLISHINA, BETIS, RONJONNIE, SHUL EAST, MOSS, TPITTS
+- Filterforge filters creators for texture assistance Filterforge.com
+
+BAILKNIGHT
+- E-Web Stormtroopers
+
+BJORN JONSSON:
+- Planetary textures using Nasa images Mmedia.is
+
+DUAEL DESIGNS LLC & ROBERT STEIN III '10
+- Free Planet Bitmaps by © Freebitmaps.blogspot.com
+
+JAMES HASTINGS-TREW
+- Planetary Texture Maps: Planetpixelemporium.com
+
+FRANK GREGORIO
+- Sun textures
+
+LORD_X
+- Sun Model, animations, etc.
+
+UNREALPL
+- Fractal Pack Unrealpl.deviantart.com
+
+KRIS VANDERWATER
+- Scarsiss Clawcraft design
+
+CASPERIUM
+- Nebulae Casperium.deviantart.com
+
+LEGACY OF WAR
+- Farm props
+
+REPUBLIC AT WAR
+- Boz Pity prop sets
+- Entertainment district prop set
+- Freighter props
+- Deko Neimoidia props
+
+AUGUSTINE:
+- Holo character Art 
+
+TOBLERONE:
+- X-4 Model/Texture
+- Rho Model/Texture
+- Kappa Model/Texture
+- Theta Nu Model/Texture
+- T-6 Model/Texture
+- Sheathipedes Model/Texture
+- Class B Model/Texture
+- Delta JV-7 Model/Texture
+- Rebel One Model/Texture
+- Raddaugh Model/Texture
+
+ELRATIE:
+- Munificent mesh edits
+
+LORD ENPREMI
+- Galactic map shader setup & mesh
+
+VADE PARVIS
+- Army Trooper Chest plate & should pads
+
+MONSOONTIFE
+- Army Trooper helmet
+
+PHOENIX RISING
+- A280 & Rocket Launcher 
+
+FILO/FX MOD
+- Imperial & New Republic specialist models
+- Planet textures
