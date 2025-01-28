@@ -1,4 +1,21 @@
 PlanetLibrary = {
+    DAUPHERM = {
+        Galactic_Position = {-86, -333, 10},
+        Terrain="Desert"
+    }
+    DEEP3 = {
+        Galactic_Position = {-88, -263, 10},
+        Terrain="Desert"
+    }
+    RUTAN = {
+        Galactic_Position = {-18, -1367, 10},
+        Terrain="Desert"
+    }
+    HERISTON = {
+        Galactic_Position = {16, -1266, 10},
+        Terrain="Desert"
+    }
+
     IOKATH = {
         Galactic_Position = {-868, 56, 10},
         Terrain="Urban"
