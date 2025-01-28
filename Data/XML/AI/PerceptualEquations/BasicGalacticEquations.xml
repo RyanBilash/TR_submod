@@ -467,6 +467,8 @@
 
 	<Shipyard_Level_Two_Planet>
 	Variable_Target.Type.IsType {Parameter_Type = "Aargau"}
+	+ Variable_Target.Type.IsType {Parameter_Type = "Daupherm"}
+	+ Variable_Target.Type.IsType {Parameter_Type = "Rutan"}
 	+ Variable_Target.Type.IsType {Parameter_Type = "Anzat"}
 	+ Variable_Target.Type.IsType {Parameter_Type = "Dorin"}
 	+ Variable_Target.Type.IsType {Parameter_Type = "Kiffu"}
@@ -714,6 +716,7 @@
 	Variable_Target.Type.IsType {Parameter_Type = "Abhean"}
 
 	+ Variable_Target.Type.IsType {Parameter_Type = "Giju"}
+	+ Variable_Target.Type.IsType {Parameter_Type = "Heriston"}
 
 	+ Variable_Target.Type.IsType {Parameter_Type = "Arized"}
 	+ Variable_Target.Type.IsType {Parameter_Type = "Axxila"}
@@ -781,6 +784,7 @@
 
 	<Shipyard_Level_Four_Planet>
 	Variable_Target.Type.IsType {Parameter_Type = "Bilbringi"}
+	+ Variable_Target.Type.IsType {Parameter_Type = "Deep3"}
 	+ Variable_Target.Type.IsType {Parameter_Type = "Byss"}
 	+ Variable_Target.Type.IsType {Parameter_Type = "Copero"}
 	+ Variable_Target.Type.IsType {Parameter_Type = "Deko_Neimoidia"}

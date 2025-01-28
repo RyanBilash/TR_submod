@@ -1,4 +1,8 @@
 return {
+    ["DEEP3"] = "Deep 3",
+    ["DAUPHERM"] = "Daupherm",
+    ["RUTAN"] = "Rutan",
+    ["HERISTON"] = "Heriston",
     ["IOKATH"] = "Iokath",
     ["NATHEMA"] = "Nathema",
     ["QUESH"] = "Quesh",
