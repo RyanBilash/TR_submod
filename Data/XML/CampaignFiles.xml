@@ -105,6 +105,7 @@
 
 	<!-- Game Modes -->
 	<File>Conquests\FTGU\Campaigns_FTGU.xml</File>
+	<File>Conquests\FTGU\Campaigns_FTGU_ZC.xml</File>
 	<File>Conquests\Custom\Campaigns_Custom_Loader.xml</File>
 	<File>Conquests\Custom\Campaigns_Custom.xml</File>
 	<File>Conquests\Custom\Campaigns_Custom_Small.xml</File>

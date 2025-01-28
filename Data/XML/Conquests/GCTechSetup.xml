@@ -13,6 +13,84 @@
 		<Event_Param1>0</Event_Param1>
 
 	</Event>
+
+	<Event Name="Set_Tech_1_Zero_Command">
+		<Event_Type>STORY_AI_NOTIFICATION</Event_Type>
+		<Event_Param2>SET_TECH_1</Event_Param2>
+		<Reward_Type>SET_TECH_LEVEL</Reward_Type>
+  		<Reward_Param1>Zero_Command</Reward_Param1>
+		<Reward_Param2>1</Reward_Param2>
+	</Event>
+    <Event Name="Set_Tech_2_Zero_Command">
+		<Event_Type>STORY_AI_NOTIFICATION</Event_Type>
+		<Event_Param2>SET_TECH_2</Event_Param2>
+		<Reward_Type>SET_TECH_LEVEL</Reward_Type>
+  		<Reward_Param1>Zero_Command</Reward_Param1>
+		<Reward_Param2>2</Reward_Param2>
+	</Event>
+    <Event Name="Set_Tech_3_Zero_Command">
+		<Event_Type>STORY_AI_NOTIFICATION</Event_Type>
+		<Event_Param2>SET_TECH_3</Event_Param2>
+		<Reward_Type>SET_TECH_LEVEL</Reward_Type>
+  		<Reward_Param1>Zero_Command</Reward_Param1>
+		<Reward_Param2>3</Reward_Param2>
+	</Event>
+    <Event Name="Set_Tech_4_Zero_Command">
+		<Event_Type>STORY_AI_NOTIFICATION</Event_Type>
+		<Event_Param2>SET_TECH_4</Event_Param2>
+		<Reward_Type>SET_TECH_LEVEL</Reward_Type>
+  		<Reward_Param1>Zero_Command</Reward_Param1>
+		<Reward_Param2>4</Reward_Param2>
+	</Event>
+    <Event Name="Set_Tech_5_Zero_Command">
+		<Event_Type>STORY_AI_NOTIFICATION</Event_Type>
+		<Event_Param2>SET_TECH_5</Event_Param2>
+		<Reward_Type>SET_TECH_LEVEL</Reward_Type>
+  		<Reward_Param1>Zero_Command</Reward_Param1>
+		<Reward_Param2>5</Reward_Param2>
+	</Event>
+    <Event Name="Set_Tech_6_Zero_Command">
+		<Event_Type>STORY_AI_NOTIFICATION</Event_Type>
+		<Event_Param2>SET_TECH_6</Event_Param2>
+		<Reward_Type>SET_TECH_LEVEL</Reward_Type>
+  		<Reward_Param1>Zero_Command</Reward_Param1>
+		<Reward_Param2>6</Reward_Param2>
+	</Event>
+    <Event Name="Set_Tech_7_Zero_Command">
+		<Event_Type>STORY_AI_NOTIFICATION</Event_Type>
+		<Event_Param2>SET_TECH_7</Event_Param2>
+		<Reward_Type>SET_TECH_LEVEL</Reward_Type>
+  		<Reward_Param1>Zero_Command</Reward_Param1>
+		<Reward_Param2>7</Reward_Param2>
+	</Event>
+    <Event Name="Set_Tech_8_Zero_Command">
+		<Event_Type>STORY_AI_NOTIFICATION</Event_Type>
+		<Event_Param2>SET_TECH_8</Event_Param2>
+		<Reward_Type>SET_TECH_LEVEL</Reward_Type>
+  		<Reward_Param1>Zero_Command</Reward_Param1>
+		<Reward_Param2>8</Reward_Param2>
+	</Event>
+    <Event Name="Set_Tech_9_Zero_Command">
+		<Event_Type>STORY_AI_NOTIFICATION</Event_Type>
+		<Event_Param2>SET_TECH_9</Event_Param2>
+		<Reward_Type>SET_TECH_LEVEL</Reward_Type>
+  		<Reward_Param1>Zero_Command</Reward_Param1>
+		<Reward_Param2>9</Reward_Param2>
+	</Event>
+    <Event Name="Set_Tech_10_Zero_Command">
+		<Event_Type>STORY_AI_NOTIFICATION</Event_Type>
+		<Event_Param2>SET_TECH_10</Event_Param2>
+		<Reward_Type>SET_TECH_LEVEL</Reward_Type>
+  		<Reward_Param1>Zero_Command</Reward_Param1>
+		<Reward_Param2>10</Reward_Param2>
+	</Event>
+    <Event Name="Set_Tech_11_Zero_Command">
+		<Event_Type>STORY_AI_NOTIFICATION</Event_Type>
+		<Event_Param2>SET_TECH_11</Event_Param2>
+		<Reward_Type>SET_TECH_LEVEL</Reward_Type>
+  		<Reward_Param1>Zero_Command</Reward_Param1>
+		<Reward_Param2>11</Reward_Param2>
+	</Event>
 	
 	
 	<Event Name="Set_Tech_1_Hapes_Consortium">

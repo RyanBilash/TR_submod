@@ -1482,7 +1482,7 @@
 				Empire_Shipyard_Level_Three | Empire_Shipyard_Level_Four |
 		Zsinj_Shipyard_Level_Three | Zsinj_Shipyard_Level_Four | Rancor_Base |	
 		Pentastar_Shipyard_Level_Three | Pentastar_Shipyard_Level_Four |
-		Eriadu_Shipyard_Level_Three | Eriadu_Shipyard_Level_Four |
+		Eriadu_Shipyard_Level_Three | Eriadu_Shipyard_Level_Four | Zero_Command_Shipyard_Level_Three | Zero_Command_Shipyard_Level_Four |
 		Greater_Maldrood_Shipyard_Level_Three | Greater_Maldrood_Shipyard_Level_Four,
 		AI_Category_Dummy | Capital_Category_Dummy
 		</Required_Special_Structures>
@@ -1647,7 +1647,7 @@
 		Empire_Shipyard_Level_Three | Empire_Shipyard_Level_Four |
 		Zsinj_Shipyard_Level_Three | Zsinj_Shipyard_Level_Four | Rancor_Base |	
 		Pentastar_Shipyard_Level_Three | Pentastar_Shipyard_Level_Four |
-		Eriadu_Shipyard_Level_Three | Eriadu_Shipyard_Level_Four |
+		Eriadu_Shipyard_Level_Three | Eriadu_Shipyard_Level_Four | Zero_Command_Shipyard_Level_Three | Zero_Command_Shipyard_Level_Four |
 		Greater_Maldrood_Shipyard_Level_Three | Greater_Maldrood_Shipyard_Level_Four,
 		AI_Category_Dummy | Capital_Category_Dummy		
 		</Required_Special_Structures>
@@ -1955,7 +1955,7 @@
 		Empire_Shipyard_Level_Three | Empire_Shipyard_Level_Four |
 		Zsinj_Shipyard_Level_Three | Zsinj_Shipyard_Level_Four | Rancor_Base |	
 		Pentastar_Shipyard_Level_Three | Pentastar_Shipyard_Level_Four |
-		Eriadu_Shipyard_Level_Three | Eriadu_Shipyard_Level_Four |
+		Eriadu_Shipyard_Level_Three | Eriadu_Shipyard_Level_Four | Zero_Command_Shipyard_Level_Three | Zero_Command_Shipyard_Level_Four |
 		Greater_Maldrood_Shipyard_Level_Three | Greater_Maldrood_Shipyard_Level_Four,
 		AI_Category_Dummy | Capital_Category_Dummy</Required_Special_Structures>
 		
@@ -2231,7 +2231,7 @@
 		Empire_Shipyard_Level_Three | Empire_Shipyard_Level_Four |
 		Zsinj_Shipyard_Level_Three | Zsinj_Shipyard_Level_Four | Rancor_Base |	
 		Pentastar_Shipyard_Level_Three | Pentastar_Shipyard_Level_Four |
-		Eriadu_Shipyard_Level_Three | Eriadu_Shipyard_Level_Four |
+		Eriadu_Shipyard_Level_Three | Eriadu_Shipyard_Level_Four | Zero_Command_Shipyard_Level_Four |
 		Greater_Maldrood_Shipyard_Level_Three | Greater_Maldrood_Shipyard_Level_Four,
 		AI_Category_Dummy | Capital_Category_Dummy		
 		</Required_Special_Structures>
@@ -2343,7 +2343,7 @@
 		Empire_Shipyard_Level_Three | Empire_Shipyard_Level_Four |
 		Zsinj_Shipyard_Level_Three | Zsinj_Shipyard_Level_Four | Rancor_Base |	
 		Pentastar_Shipyard_Level_Three | Pentastar_Shipyard_Level_Four |
-		Eriadu_Shipyard_Level_Three | Eriadu_Shipyard_Level_Four |
+		Eriadu_Shipyard_Level_Three | Eriadu_Shipyard_Level_Four | Zero_Command_Shipyard_Level_Three | Zero_Command_Shipyard_Level_Four |
 		Greater_Maldrood_Shipyard_Level_Three | Greater_Maldrood_Shipyard_Level_Four,
 		AI_Category_Dummy | Capital_Category_Dummy		
 		</Required_Special_Structures>
@@ -2466,7 +2466,7 @@
 		<Variant_Of_Existing_Type>Template_Star_Destroyer_Two</Variant_Of_Existing_Type>
 		
 		<Tech_Level>0</Tech_Level>
-		<Affiliation>Empire, Zsinj_Empire, Eriadu_Authority, Yevetha</Affiliation> <!-- ZC -->
+		<Affiliation>Empire, Zsinj_Empire, Eriadu_Authority, Zero_Command, Yevetha</Affiliation> <!-- ZC -->
 
 		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron_Half, 1</Starting_Spawned_Units_Tech_0>
 		<Starting_Spawned_Units_Tech_0>Skipray_Squadron_Half, 1</Starting_Spawned_Units_Tech_0>
@@ -2500,7 +2500,7 @@
 		Empire_Shipyard_Level_Three | Empire_Shipyard_Level_Four |
 		Zsinj_Shipyard_Level_Three | Zsinj_Shipyard_Level_Four | Rancor_Base |	
 		Pentastar_Shipyard_Level_Three | Pentastar_Shipyard_Level_Four |
-		Eriadu_Shipyard_Level_Three | Eriadu_Shipyard_Level_Four |
+		Eriadu_Shipyard_Level_Three | Eriadu_Shipyard_Level_Four | Zero_Command_Shipyard_Level_Four |
 		Greater_Maldrood_Shipyard_Level_Three | Greater_Maldrood_Shipyard_Level_Four,
 		AI_Category_Dummy | Capital_Category_Dummy		
 		</Required_Special_Structures>
@@ -2615,7 +2615,7 @@
 		Empire_Shipyard_Level_Three | Empire_Shipyard_Level_Four |
 		Zsinj_Shipyard_Level_Three | Zsinj_Shipyard_Level_Four | Rancor_Base |	
 		Pentastar_Shipyard_Level_Three | Pentastar_Shipyard_Level_Four |
-		Eriadu_Shipyard_Level_Three | Eriadu_Shipyard_Level_Four |
+		Eriadu_Shipyard_Level_Three | Eriadu_Shipyard_Level_Four | Zero_Command_Shipyard_Level_Four |
 		Greater_Maldrood_Shipyard_Level_Three | Greater_Maldrood_Shipyard_Level_Four,
 		AI_Category_Dummy | Capital_Category_Dummy</Required_Special_Structures>
 		
@@ -2829,7 +2829,7 @@
 		Empire_Shipyard_Level_Three | Empire_Shipyard_Level_Four |
 		Zsinj_Shipyard_Level_Three | Zsinj_Shipyard_Level_Four | Rancor_Base |	
 		Pentastar_Shipyard_Level_Three | Pentastar_Shipyard_Level_Four |
-		Eriadu_Shipyard_Level_Three | Eriadu_Shipyard_Level_Four |
+		Eriadu_Shipyard_Level_Three | Eriadu_Shipyard_Level_Four | Zero_Command_Shipyard_Level_Four |
 		Greater_Maldrood_Shipyard_Level_Three | Greater_Maldrood_Shipyard_Level_Four,
 		AI_Category_Dummy | Capital_Category_Dummy</Required_Special_Structures>
 		<Build_Time_Reduced_By_Multiple_Factories>yes</Build_Time_Reduced_By_Multiple_Factories>
@@ -3032,7 +3032,7 @@
 		Empire_Shipyard_Level_Three | Empire_Shipyard_Level_Four |
 		Zsinj_Shipyard_Level_Three | Zsinj_Shipyard_Level_Four | Rancor_Base |	
 		Pentastar_Shipyard_Level_Three | Pentastar_Shipyard_Level_Four |
-		Eriadu_Shipyard_Level_Three | Eriadu_Shipyard_Level_Four |
+		Eriadu_Shipyard_Level_Three | Eriadu_Shipyard_Level_Four | Zero_Command_Shipyard_Level_Four |
 		Greater_Maldrood_Shipyard_Level_Three | Greater_Maldrood_Shipyard_Level_Four,
 		AI_Category_Dummy | Capital_Category_Dummy</Required_Special_Structures>
 		<Build_Time_Reduced_By_Multiple_Factories>yes</Build_Time_Reduced_By_Multiple_Factories>
@@ -3547,7 +3547,7 @@
 		Empire_Shipyard_Level_Four |
 		Zsinj_Shipyard_Level_Four | Rancor_Base |	
 		Pentastar_Shipyard_Level_Four |
-		Eriadu_Shipyard_Level_Four |
+		Eriadu_Shipyard_Level_Four | Zero_Command_Shipyard_Level_Four |
 		Greater_Maldrood_Shipyard_Level_Four,
 		AI_Category_Dummy | Dreadnought_Category_Dummy		
 		</Required_Special_Structures>
@@ -3687,7 +3687,7 @@
 		Empire_Shipyard_Level_Four |
 		Zsinj_Shipyard_Level_Four | Rancor_Base |	
 		Pentastar_Shipyard_Level_Four |
-		Eriadu_Shipyard_Level_Four |
+		Eriadu_Shipyard_Level_Four | Zero_Command_Shipyard_Level_Four |
 		Greater_Maldrood_Shipyard_Level_Four,
 		AI_Category_Dummy | Dreadnought_Category_Dummy
 		</Required_Special_Structures>
@@ -4242,7 +4242,7 @@
 		Empire_Shipyard_Level_Four |
 		Zsinj_Shipyard_Level_Four | Rancor_Base |	
 		Pentastar_Shipyard_Level_Four |
-		Eriadu_Shipyard_Level_Four |
+		Eriadu_Shipyard_Level_Four | Zero_Command_Shipyard_Level_Four |
 		Greater_Maldrood_Shipyard_Level_Four,
 		AI_Category_Dummy | Dreadnought_Category_Dummy		
 		</Required_Special_Structures>
@@ -5169,7 +5169,7 @@
 		Empire_Shipyard_Level_Four |
 		Zsinj_Shipyard_Level_Four | Rancor_Base |	
 		Pentastar_Shipyard_Level_Four |
-		Eriadu_Shipyard_Level_Four |
+		Eriadu_Shipyard_Level_Four | Zero_Command_Shipyard_Level_Four |
 		Greater_Maldrood_Shipyard_Level_Four,
 		AI_Category_Dummy | Dreadnought_Category_Dummy
 		</Required_Special_Structures>
@@ -5382,7 +5382,7 @@
 		Empire_Shipyard_Level_Four |
 		Zsinj_Shipyard_Level_Four | Rancor_Base |	
 		Pentastar_Shipyard_Level_Four |
-		Eriadu_Shipyard_Level_Four |
+		Eriadu_Shipyard_Level_Four | Zero_Command_Shipyard_Level_Four |
 		Greater_Maldrood_Shipyard_Level_Four,
 		AI_Category_Dummy | Dreadnought_Category_Dummy</Required_Special_Structures>
 		<Build_Time_Reduced_By_Multiple_Factories>yes</Build_Time_Reduced_By_Multiple_Factories>
@@ -5610,7 +5610,7 @@
 		<Autoresolve_Health>23400</Autoresolve_Health>
 		<Damage>70</Damage>
 		
-		<Affiliation>Empire, Eriadu_Authority</Affiliation>
+		<Affiliation>Empire, Eriadu_Authority, Zero_Command</Affiliation>
 		<Political_Control/>
 		<Maintenance_Cost>216</Maintenance_Cost>
 
@@ -5638,7 +5638,7 @@
 				Empire_Shipyard_Level_Four |
 		Zsinj_Shipyard_Level_Four | Rancor_Base |	
 		Pentastar_Shipyard_Level_Four |
-		Eriadu_Shipyard_Level_Four |
+		Eriadu_Shipyard_Level_Four | Zero_Command_Shipyard_Level_Four |
 		Greater_Maldrood_Shipyard_Level_Four,
 		AI_Category_Dummy | Dreadnought_Category_Dummy</Required_Special_Structures>
 		<Build_Time_Reduced_By_Multiple_Factories>yes</Build_Time_Reduced_By_Multiple_Factories>
@@ -5846,7 +5846,7 @@
 				Empire_Shipyard_Level_Four |
 		Zsinj_Shipyard_Level_Four | Rancor_Base |	
 		Pentastar_Shipyard_Level_Four |
-		Eriadu_Shipyard_Level_Four |
+		Eriadu_Shipyard_Level_Four | Zero_Command_Shipyard_Level_Four |
 		Greater_Maldrood_Shipyard_Level_Four,
 		AI_Category_Dummy | Dreadnought_Category_Dummy</Required_Special_Structures>
 		<Build_Time_Reduced_By_Multiple_Factories>yes</Build_Time_Reduced_By_Multiple_Factories>
@@ -5985,14 +5985,14 @@
 
 		<No_Colorization_Color> 255, 255, 255, 255 </No_Colorization_Color>
 		
-		<Affiliation>Corporate_Sector, Independent_Forces</Affiliation>
+		<Affiliation>Corporate_Sector, Zero_Command, Independent_Forces</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		
 		<Required_Special_Structures>
-		CSA_Ship_Market,
+		CSA_Ship_Market | Zero_Command_Shipyard_Level_Four, 
 		AI_Category_Dummy | Dreadnought_Category_Dummy		
 		</Required_Special_Structures>
 		
@@ -6127,7 +6127,7 @@
 		<Autoresolve_Health>20310</Autoresolve_Health>
 		<Damage>18000</Damage>
 		
-		<Affiliation>Greater_Maldrood, Eriadu_Authority, Independent_Forces</Affiliation>
+		<Affiliation>Greater_Maldrood, Eriadu_Authority, Zero_Command, Independent_Forces</Affiliation>
 		<Political_Control/>
 		<Maintenance_Cost>216</Maintenance_Cost>
 
@@ -6152,7 +6152,7 @@
 		<Build_Time_Seconds>360</Build_Time_Seconds>
 		<Slice_Cost_Credits>2000</Slice_Cost_Credits>
 		<Required_Special_Structures>
-		Eriadu_Shipyard_Level_Four |
+		Eriadu_Shipyard_Level_Four | Zero_Command_Shipyard_Level_Four |
 		Greater_Maldrood_Shipyard_Level_Four,
 		AI_Category_Dummy | Dreadnought_Category_Dummy</Required_Special_Structures>
 		<Build_Time_Reduced_By_Multiple_Factories>yes</Build_Time_Reduced_By_Multiple_Factories>
@@ -6349,7 +6349,7 @@
 		<Autoresolve_Health>56550</Autoresolve_Health>
 		<Damage>18000</Damage>
 		
-		<Affiliation>Pentastar, Independent_Forces</Affiliation>
+		<Affiliation>Pentastar, Zero_Command, Independent_Forces</Affiliation>
 		<Political_Control/>
 		<Maintenance_Cost>216</Maintenance_Cost>
 
@@ -6374,7 +6374,7 @@
 		<Build_Time_Seconds>360</Build_Time_Seconds>
 		<Slice_Cost_Credits>2000</Slice_Cost_Credits>
 		<Required_Special_Structures>
-		Pentastar_Shipyard_Level_Four,
+		Pentastar_Shipyard_Level_Four | Zero_Command_Shipyard_Level_Four, 
 		AI_Category_Dummy | Dreadnought_Category_Dummy
 		</Required_Special_Structures>
 		<Build_Time_Reduced_By_Multiple_Factories>yes</Build_Time_Reduced_By_Multiple_Factories>
@@ -7061,13 +7061,13 @@
 		<Variant_Of_Existing_Type>Template_Vengeance</Variant_Of_Existing_Type>
 		
 		<Tech_Level>0</Tech_Level>
-		<Affiliation>Zsinj_Empire, Independent_Forces</Affiliation>
+		<Affiliation>Zsinj_Empire, Independent_Forces, Zero_Command</Affiliation>
 
 		<Required_Special_Structures>
 		Empire_Shipyard_Level_Four |
 		Zsinj_Shipyard_Level_Four | Rancor_Base |	
 		Pentastar_Shipyard_Level_Four |
-		Eriadu_Shipyard_Level_Four |
+		Eriadu_Shipyard_Level_Four | Zero_Command_Shipyard_Level_Four |
 		Greater_Maldrood_Shipyard_Level_Four,
 		AI_Category_Dummy | Dreadnought_Category_Dummy</Required_Special_Structures>
 
@@ -7146,7 +7146,7 @@
 		<Autoresolve_Health>22910</Autoresolve_Health>
 		<Damage>60</Damage>
 		
-		<Affiliation>Empire, Greater_Maldrood, Pentastar, Eriadu_Authority, Zsinj_Empire, Independent_Forces</Affiliation>
+		<Affiliation>Empire, Greater_Maldrood, Pentastar, Eriadu_Authority, Zsinj_Empire, Independent_Forces, Zero_Command</Affiliation>
 		<Political_Control/>
 		<Maintenance_Cost>252</Maintenance_Cost>
 
@@ -7174,7 +7174,7 @@
 		Empire_Shipyard_Level_Four |
 		Zsinj_Shipyard_Level_Four | Rancor_Base |	
 		Pentastar_Shipyard_Level_Four |
-		Eriadu_Shipyard_Level_Four |
+		Eriadu_Shipyard_Level_Four | Zero_Command_Shipyard_Level_Four |
 		Greater_Maldrood_Shipyard_Level_Four,
 		AI_Category_Dummy | Dreadnought_Category_Dummy
 		</Required_Special_Structures>
@@ -7436,7 +7436,7 @@
 		Empire_Shipyard_Level_Four |
 		Zsinj_Shipyard_Level_Four | Rancor_Base |	
 		Pentastar_Shipyard_Level_Four |
-		Eriadu_Shipyard_Level_Four |
+		Eriadu_Shipyard_Level_Four | Zero_Command_Shipyard_Level_Four |
 		Greater_Maldrood_Shipyard_Level_Four,
 		AI_Category_Dummy | Dreadnought_Category_Dummy
 		</Required_Special_Structures>
@@ -7569,7 +7569,7 @@
 		<Variant_Of_Existing_Type>Template_Executor</Variant_Of_Existing_Type>
 		
 		<Tech_Level>0</Tech_Level>
-		<Affiliation>Empire, Independent_Forces</Affiliation>
+		<Affiliation>Empire, Zero_Command, Independent_Forces</Affiliation>
 		
 		<Death_Clone>Damage_Normal, Executor_Death_Clone</Death_Clone>
 		
@@ -7771,7 +7771,7 @@
 		Empire_Shipyard_Level_Four |
 		Zsinj_Shipyard_Level_Four | Rancor_Base |	
 		Pentastar_Shipyard_Level_Four |
-		Eriadu_Shipyard_Level_Four |
+		Eriadu_Shipyard_Level_Four | Zero_Command_Shipyard_Level_Four |
 		Greater_Maldrood_Shipyard_Level_Four,
 		AI_Category_Dummy | Dreadnought_Category_Dummy
 		</Required_Special_Structures>
@@ -8240,7 +8240,7 @@
 		<Autoresolve_Health>61640</Autoresolve_Health>
 		<Damage>18000</Damage>
 		
-		<Affiliation>Eriadu_Authority, Independent_Forces</Affiliation>
+		<Affiliation>Eriadu_Authority, Zero_Command, Independent_Forces</Affiliation>
 		<Political_Control/>
 		<Maintenance_Cost>252</Maintenance_Cost>
 
@@ -8265,7 +8265,7 @@
 		<Build_Time_Seconds>420</Build_Time_Seconds>
 		<Slice_Cost_Credits>2000</Slice_Cost_Credits>
 		<Required_Special_Structures>
-		Eriadu_Shipyard_Level_Four,
+		Eriadu_Shipyard_Level_Four | Zero_Command_Shipyard_Level_Four, 
 		AI_Category_Dummy | Dreadnought_Category_Dummy
 		</Required_Special_Structures>
 		<Build_Time_Reduced_By_Multiple_Factories>yes</Build_Time_Reduced_By_Multiple_Factories>
