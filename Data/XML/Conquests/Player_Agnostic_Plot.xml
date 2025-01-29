@@ -1047,6 +1047,103 @@
 		<Reward_Param2></Reward_Param2>
 		<Perpetual>true</Perpetual>
 	</Event>
+	<Event Name="Zoom_Into_ATRISIA">
+		<Event_Type>STORY_SELECT_PLANET</Event_Type>
+		<Event_Param1>Atrisia</Event_Param1>
+		<Reward_Type>TRIGGER_AI</Reward_Type>
+		<Reward_Param1>ZOOMED_INTO_ATRISIA</Reward_Param1>
+		<Reward_Param2></Reward_Param2>
+		<Perpetual>true</Perpetual>
+	</Event>
+    <Event Name="Zoom_Into_JERRILEK">
+		<Event_Type>STORY_SELECT_PLANET</Event_Type>
+		<Event_Param1>Jerrilek</Event_Param1>
+		<Reward_Type>TRIGGER_AI</Reward_Type>
+		<Reward_Param1>ZOOMED_INTO_JERRILEK</Reward_Param1>
+		<Reward_Param2></Reward_Param2>
+		<Perpetual>true</Perpetual>
+	</Event>
+    <Event Name="Zoom_Into_LETTOW">
+		<Event_Type>STORY_SELECT_PLANET</Event_Type>
+		<Event_Param1>Lettow</Event_Param1>
+		<Reward_Type>TRIGGER_AI</Reward_Type>
+		<Reward_Param1>ZOOMED_INTO_LETTOW</Reward_Param1>
+		<Reward_Param2></Reward_Param2>
+		<Perpetual>true</Perpetual>
+	</Event>
+    <Event Name="Zoom_Into_OTTABESK">
+		<Event_Type>STORY_SELECT_PLANET</Event_Type>
+		<Event_Param1>Ottabesk</Event_Param1>
+		<Reward_Type>TRIGGER_AI</Reward_Type>
+		<Reward_Param1>ZOOMED_INTO_OTTABESK</Reward_Param1>
+		<Reward_Param2></Reward_Param2>
+		<Perpetual>true</Perpetual>
+	</Event>
+    <Event Name="Zoom_Into_SHUMAVAR">
+		<Event_Type>STORY_SELECT_PLANET</Event_Type>
+		<Event_Param1>Shumavar</Event_Param1>
+		<Reward_Type>TRIGGER_AI</Reward_Type>
+		<Reward_Param1>ZOOMED_INTO_SHUMAVAR</Reward_Param1>
+		<Reward_Param2></Reward_Param2>
+		<Perpetual>true</Perpetual>
+	</Event>
+    <Event Name="Zoom_Into_STEWJON">
+		<Event_Type>STORY_SELECT_PLANET</Event_Type>
+		<Event_Param1>Stewjon</Event_Param1>
+		<Reward_Type>TRIGGER_AI</Reward_Type>
+		<Reward_Param1>ZOOMED_INTO_STEWJON</Reward_Param1>
+		<Reward_Param2></Reward_Param2>
+		<Perpetual>true</Perpetual>
+	</Event>
+    <Event Name="Zoom_Into_SURDNEBULA">
+		<Event_Type>STORY_SELECT_PLANET</Event_Type>
+		<Event_Param1>SurdNebula</Event_Param1>
+		<Reward_Type>TRIGGER_AI</Reward_Type>
+		<Reward_Param1>ZOOMED_INTO_SURDNEBULA</Reward_Param1>
+		<Reward_Param2></Reward_Param2>
+		<Perpetual>true</Perpetual>
+	</Event>
+    <Event Name="Zoom_Into_TARKINSFANG">
+		<Event_Type>STORY_SELECT_PLANET</Event_Type>
+		<Event_Param1>TarkinsFang</Event_Param1>
+		<Reward_Type>TRIGGER_AI</Reward_Type>
+		<Reward_Param1>ZOOMED_INTO_TARKINSFANG</Reward_Param1>
+		<Reward_Param2></Reward_Param2>
+		<Perpetual>true</Perpetual>
+	</Event>
+    <Event Name="Zoom_Into_DEEP3">
+		<Event_Type>STORY_SELECT_PLANET</Event_Type>
+		<Event_Param1>Deep3</Event_Param1>
+		<Reward_Type>TRIGGER_AI</Reward_Type>
+		<Reward_Param1>ZOOMED_INTO_DEEP3</Reward_Param1>
+		<Reward_Param2></Reward_Param2>
+		<Perpetual>true</Perpetual>
+	</Event>
+    <Event Name="Zoom_Into_DAUPHERM">
+		<Event_Type>STORY_SELECT_PLANET</Event_Type>
+		<Event_Param1>Daupherm</Event_Param1>
+		<Reward_Type>TRIGGER_AI</Reward_Type>
+		<Reward_Param1>ZOOMED_INTO_DAUPHERM</Reward_Param1>
+		<Reward_Param2></Reward_Param2>
+		<Perpetual>true</Perpetual>
+	</Event>
+    <Event Name="Zoom_Into_RUTAN">
+		<Event_Type>STORY_SELECT_PLANET</Event_Type>
+		<Event_Param1>Rutan</Event_Param1>
+		<Reward_Type>TRIGGER_AI</Reward_Type>
+		<Reward_Param1>ZOOMED_INTO_RUTAN</Reward_Param1>
+		<Reward_Param2></Reward_Param2>
+		<Perpetual>true</Perpetual>
+	</Event>
+    <Event Name="Zoom_Into_HERISTON">
+		<Event_Type>STORY_SELECT_PLANET</Event_Type>
+		<Event_Param1>Heriston</Event_Param1>
+		<Reward_Type>TRIGGER_AI</Reward_Type>
+		<Reward_Param1>ZOOMED_INTO_HERISTON</Reward_Param1>
+		<Reward_Param2></Reward_Param2>
+		<Perpetual>true</Perpetual>
+	</Event>
+
 	<!--
 		END CUSTOM PLANETS
 	-->
