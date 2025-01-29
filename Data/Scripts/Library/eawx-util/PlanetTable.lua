@@ -2,7 +2,7 @@ return {
     ["ATRISIA"] = "Atrisia",
     ["JERRILEK"] = "Jerrilek",
     ["LETTOW"] = "Lettow",
-    ["OTTABESK"] = "Ottabest",
+    ["OTTABESK"] = "Ottabesk",
     ["SHUMAVAR"] = "Shumavar",
     ["STEWJON"] = "Stewjon",
     ["SURDNEBULA"] = "Surd Nebula",

@@ -19,5 +19,6 @@
 	<File>custom_routes/many.xml</File>
 	<File>custom_routes/galactic_south.xml</File>
 	<File>custom_routes/final_routes.xml</File>
+	<File>custom_routes/dcw.xml</File>
 	<File>TradeRoutesCUSTOM</File>
 </Trade_Route_Files>
