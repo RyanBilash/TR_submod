@@ -33,6 +33,10 @@
 	Variable_Target.Type.IsType {Parameter_Type = "Aargonar"}
 
 	+ Variable_Target.Type.IsType {Parameter_Type = "CZ198"}
+	+ Variable_Target.Type.IsType {Parameter_Type = "Jerrilek"}
+	+ Variable_Target.Type.IsType {Parameter_Type = "Lettow"}
+	+ Variable_Target.Type.IsType {Parameter_Type = "Stewjon"}
+	+ Variable_Target.Type.IsType {Parameter_Type = "SurdNebula"}
 	+ Variable_Target.Type.IsType {Parameter_Type = "Mortis"}
 	+ Variable_Target.Type.IsType {Parameter_Type = "Dosuun"}
 	+ Variable_Target.Type.IsType {Parameter_Type = "Sanctuary"}
@@ -468,6 +472,9 @@
 	<Shipyard_Level_Two_Planet>
 	Variable_Target.Type.IsType {Parameter_Type = "Aargau"}
 	+ Variable_Target.Type.IsType {Parameter_Type = "Daupherm"}
+	+ Variable_Target.Type.IsType {Parameter_Type = "Atrisia"}
+	+ Variable_Target.Type.IsType {Parameter_Type = "Ottabesk"}
+	+ Variable_Target.Type.IsType {Parameter_Type = "Shumavar"}
 	+ Variable_Target.Type.IsType {Parameter_Type = "Rutan"}
 	+ Variable_Target.Type.IsType {Parameter_Type = "Anzat"}
 	+ Variable_Target.Type.IsType {Parameter_Type = "Dorin"}
@@ -717,6 +724,7 @@
 
 	+ Variable_Target.Type.IsType {Parameter_Type = "Giju"}
 	+ Variable_Target.Type.IsType {Parameter_Type = "Heriston"}
+	+ Variable_Target.Type.IsType {Parameter_Type = "TarkinsFang"}
 
 	+ Variable_Target.Type.IsType {Parameter_Type = "Arized"}
 	+ Variable_Target.Type.IsType {Parameter_Type = "Axxila"}

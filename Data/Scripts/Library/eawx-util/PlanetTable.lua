@@ -1,4 +1,12 @@
 return {
+    ["ATRISIA"] = "Atrisia",
+    ["JERRILEK"] = "Jerrilek",
+    ["LETTOW"] = "Lettow",
+    ["OTTABESK"] = "Ottabest",
+    ["SHUMAVAR"] = "Shumavar",
+    ["STEWJON"] = "Stewjon",
+    ["SURDNEBULA"] = "Surd Nebula",
+    ["TARKINSFANG"] = "Tarkin's Fang",
     ["DEEP3"] = "Deep 3",
     ["DAUPHERM"] = "Daupherm",
     ["RUTAN"] = "Rutan",

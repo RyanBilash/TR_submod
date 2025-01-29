@@ -1,4 +1,36 @@
 PlanetLibrary = {
+    ATRISIA = {
+        Galactic_Position = {-287, -365, 10},
+        Terrain="Desert"
+    }
+    JERRILEK = {
+        Galactic_Position = {-30, -123, 10},
+        Terrain="Desert"
+    }
+    LETTOW = {
+        Galactic_Position = {189, -242, 10},
+        Terrain="Desert"
+    }
+    OTTABESK = {
+        Galactic_Position = {154, -252, 10},
+        Terrain="Desert"
+    }
+    SHUMAVAR = {
+        Galactic_Position = {161, -1189, 10},
+        Terrain="Desert"
+    }
+    STEWJON = {
+        Galactic_Position = {-24, -166, 10},
+        Terrain="Desert"
+    }
+    SURDNEBULA = {
+        Galactic_Position = {32,-1192, 10},
+        Terrain="Desert"
+    }
+    TARKINSFANG = {
+        Galactic_Position = {156, -97, 10},
+        Terrain="Desert"
+    }
     DAUPHERM = {
         Galactic_Position = {-86, -333, 10},
         Terrain="Desert"

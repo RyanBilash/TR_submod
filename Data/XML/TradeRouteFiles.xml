@@ -7,17 +7,17 @@
 	<File>TradeRoutes_MZ.xml</File>
 	<File>NewTradeRoutes.xml</File>
 	<File>NewTradeRoutesFotR.xml</File>
-	<File>sith_space.xml</File>
-	<File>chiss.xml</File>
-	<File>core.xml</File>
-	<File>deep_core.xml</File>
-	<File>hapes.xml</File>
-	<File>imp_fortresses.xml</File>
-	<File>outer_hapes.xml</File>
-	<File>dathomir_space.xml</File>
-	<File>route_gaps.xml</File>
-	<File>many.xml</File>
-	<File>galactic_south.xml</File>
-	<File>final_routes.xml</File>
+	<File>custom_routes/sith_space.xml</File>
+	<File>custom_routes/chiss.xml</File>
+	<File>custom_routes/core.xml</File>
+	<File>custom_routes/deep_core.xml</File>
+	<File>custom_routes/hapes.xml</File>
+	<File>custom_routes/imp_fortresses.xml</File>
+	<File>custom_routes/outer_hapes.xml</File>
+	<File>custom_routes/dathomir_space.xml</File>
+	<File>custom_routes/route_gaps.xml</File>
+	<File>custom_routes/many.xml</File>
+	<File>custom_routes/galactic_south.xml</File>
+	<File>custom_routes/final_routes.xml</File>
 	<File>TradeRoutesCUSTOM</File>
 </Trade_Route_Files>
