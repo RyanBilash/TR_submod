@@ -10,8 +10,8 @@ Maldrood and Gann start at rough parity. Zero Command have more starting forces,
 EA position has a pretty rough postion overall, but they'll get Cronus on Night Hammer after holding out for a bit
 -->
 
-	<Campaign Name="Sandbox_DeepCoreConflict_Era_4_2_Empire">
-		<Campaign_Set>Sandbox_DeepCoreConflict_Era_4_2</Campaign_Set>
+	<Campaign Name="Sandbox_DeepCoreConflict_2_Era_4_Empire">
+		<Campaign_Set>Sandbox_DeepCoreConflict_2_Era_4</Campaign_Set>
 		
 		<Sort_Order>006</Sort_Order>
 		<Is_Listed>False</Is_Listed>
@@ -108,6 +108,109 @@ EA position has a pretty rough postion overall, but they'll get Cronus on Night 
 		</Locations>
 		<Trade_Routes>
 			Abregado_Rae_Thomork,
+			
+			RBC_Eriadu_Sluis_Van,
+			RBC_Polis_Massa_Rutan,
+			RBC_Commenor_Corellia,
+			RBC_Atravis_Shumavar,
+			RBC_Khomm_Thomork,
+			RBC_Mustafar_SurdNebula,
+			RBC_Foerost_Kuar,
+			RBC_Eriadu_Shumavar,
+			RBC_Da_Soocha_Ryloth,
+			RBC_Da_Soocha_Sleheyron,
+			RBC_Abregado_Rae_Iphigin,
+			RBC_Thyferra_YagDhul,
+			RBC_Rutan_Tosste,
+			RBC_Bothawui_Tatooine,
+			RBC_Commenor_Kashyyyk,
+			RBC_Abregado_Rae_Belgaroth,
+			RBC_Kashyyyk_Sleheyron,
+			RBC_Metalorn_Roche,
+			RBC_Naboo_Tatooine,
+			RBC_Ebaq_Had_Abbadon,
+			RBC_Belsavis_Eiattu,
+			RBC_Bestine_Fondor,
+			RBC_Bothawui_Sleheyron,
+			RBC_Empress_Teta_Stewjon,
+			RBC_Chardaan_Commenor,
+			RBC_Bothawui_Da_Soocha,
+			RBC_Centares_Metalorn,
+			RBC_Kriselist_Moorja,
+			RBC_Bestine_Chardaan,
+			RBC_Lantillies_Roche,
+			RBC_Kessel_Sleheyron,
+			RBC_Kessel_The_Maw,
+			RBC_Ojom_Ottabesk,
+			RBC_Ebaq_TarkinsFang,
+			RBC_Alsakan_Foerost,
+			RBC_Jerrilek_Stewjon,
+			RBC_Vondarc_Woostri,
+			RBC_Bestine_Thyferra,
+			RBC_Abregado_Rae_Fondor,
+			RBC_Alsakan_Kaikielius,
+			RBC_Kabal_Naboo,
+			RBC_Ryloth_Tatooine,
+			RBC_Deep3_Kalist,
+			RBC_Chardaan_Naboo,
+			RBC_Fondor_Thyferra,
+			RBC_Columus_Lettow,
+			RBC_Belsavis_Eriadu,
+			RBC_Belsavis_Bespin,
+			RBC_Eriadu_Sullust,
+			RBC_Carida_Vulpter,
+			RBC_Loedorvia_Necropolis,
+			RBC_Khomm_Ottabesk,
+			RBC_Jerrilek_Kuar,
+			RBC_Kashyyyk_Togoria,
+			RBC_Sullust_Vondarc,
+			RBC_Atravis_Mustafar,
+			RBC_Atrisia_Necropolis,
+			RBC_Naboo_Ryloth,
+			RBC_Atravis_Tosste,
+			RBC_Eriadu_Kabal,
+			RBC_Woostri_Wroona,
+			RBC_Bothawui_Kashyyyk,
+			RBC_Jerrilek_Prakith,
+			RBC_Belgaroth_Giju,
+			RBC_Hakassi_Ottabesk,
+			RBC_Daupherm_Loedorvia,
+			RBC_Foerost_Jerrilek,
+			RBC_Heriston_Mustafar,
+			RBC_Eclipse_Ottabesk,
+			RBC_Naboo_Sullust,
+			RBC_Hoth_Polis_Massa,
+			RBC_Bothawui_Naboo,
+			RBC_Carida_Corellia,
+			RBC_Fondor_Iphigin,
+			RBC_Elrood_Sluis_Van,
+			RBC_Lettow_Ottabesk,
+			RBC_Roche_Togoria,
+			RBC_Lantillies_Togoria,
+			RBC_Naboo_Vondarc,
+			RBC_Fondor_YagDhul,
+			RBC_Abregado_Rae_Giju,
+			RBC_Abregado_Rae_Daupherm,
+			RBC_Kabal_Sluis_Van,
+			RBC_Bespin_Kriselist,
+			RBC_Giju_Necropolis,
+			RBC_Centares_Roche,
+			RBC_Heriston_SurdNebula,
+			RBC_Carida_Lantillies,
+			RBC_Had_Abbadon_Tsoss,
+			RBC_Fondor_Giju,
+			RBC_Alsakan_Carida,
+			RBC_Moorja_YagDhul,
+			RBC_Bestine_Corellia,
+			RBC_Mustafar_Rutan,
+			RBC_Kaikielius_Vulpter,
+			RBC_Da_Soocha_Kessel,
+			RBC_Bespin_Hoth,
+			RBC_Alsakan_Cal_Seti,
+			RBC_Wroona_YagDhul,
+			RBC_Carida_Commenor,
+			RBC_Eiattu_Vondarc,
+			
 			Cal_Seti_Foerost,
 			Cal_Seti_Galantos,
 			Cal_Seti_Odik,
@@ -137,8 +240,8 @@ EA position has a pretty rough postion overall, but they'll get Cronus on Night 
 		<Home_Location> Warlords, Odik </Home_Location>
 
         <Starting_Active_Player> Empire </Starting_Active_Player>
-		<Empire_Story_Name>Conquests\DeepCore\Story_Plots_Sandbox_Core_Empire.xml</Empire_Story_Name>
-		<Underworld_Story_Name>Conquests\DeepCore\Story_Plots_Sandbox_Core_Container.xml</Underworld_Story_Name>
+		<Empire_Story_Name>Conquests\DeepCore2\Story_Plots_Sandbox_Core_Empire.xml</Empire_Story_Name>
+		<Underworld_Story_Name>Conquests\DeepCore2\Story_Plots_Sandbox_Core_Container.xml</Underworld_Story_Name>
 		
 		<Story_Name>
 			EmpireoftheHand, Conquests\Story_Plots_Generic_EmpireoftheHand.xml, 
@@ -211,6 +314,166 @@ EA position has a pretty rough postion overall, but they'll get Cronus on Night 
 		<Starting_Credits> Empire,  3000 </Starting_Credits>
 		<Starting_Tech_Level> Empire, 1 </Starting_Tech_Level>
 		<Max_Tech_Level> Empire, 3 </Max_Tech_Level>
+
+
+
+		<!-- Deep3 Space Forces -->
+		<Starting_Forces> Empire, Deep3, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Empire, Deep3, Empire_Shipyard_Level_Four </Starting_Forces>
+		<Starting_Forces> Empire, Deep3, Generic_Star_Destroyer </Starting_Forces>
+		<Starting_Forces> Empire, Deep3, Dreadnaught_Empire </Starting_Forces>
+		<Starting_Forces> Empire, Deep3, Carrack_Cruiser </Starting_Forces>
+		<Starting_Forces> Empire, Deep3, Lancer_Frigate </Starting_Forces>
+		
+		
+		<Starting_Forces> Empire, Khomm, Empire_MoffPalace </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, E_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Tax_Agency </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Empire_Shipyard_Level_Two </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Imperial_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Imperial_Chariot_LAV_Company </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Imperial_Army_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Empire, Khomm, Generic_Star_Destroyer_Two </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Generic_Victory_Destroyer </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Dreadnaught_Empire </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Carrack_Cruiser </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Lancer_Frigate </Starting_Forces>
+		
+		
+		<Starting_Forces> Empire, Belgaroth, Empire_MoffPalace </Starting_Forces>
+		<Starting_Forces> Empire, Belgaroth, E_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Empire, Belgaroth, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Belgaroth, Tax_Agency </Starting_Forces>
+		<Starting_Forces> Empire, Belgaroth, Empire_Shipyard_Level_Two </Starting_Forces>
+		<Starting_Forces> Empire, Belgaroth, Imperial_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Empire, Belgaroth, Imperial_Chariot_LAV_Company </Starting_Forces>
+		<Starting_Forces> Empire, Belgaroth, Imperial_Army_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Empire, Belgaroth, Generic_Tector </Starting_Forces>
+		<Starting_Forces> Empire, Belgaroth, Lancer_Frigate </Starting_Forces>
+		
+		
+		<Starting_Forces> Empire, Atravis, Empire_MoffPalace </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, E_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Tax_Agency </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Tax_Agency </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Local_Infrastructure </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Naval_Academy </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Empire_Shipyard_Level_Two </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Imperial_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Imperial_Chariot_LAV_Company </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Imperial_Army_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Imperial_Army_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Imperial_Army_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Imperial_Army_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Empire, Atravis, Generic_Allegiance </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Lancer_Frigate </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Lancer_Frigate </Starting_Forces>
+		
+		
+		<Starting_Forces> Empire, Mustafar, Empire_MoffPalace </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Mining_Facility </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Empire_Shipyard_Level_Two </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Generic_TradeStation </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Imperial_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Imperial_Chariot_LAV_Company </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Imperial_Army_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Imperial_A5RX_Company </Starting_Forces>
+		
+		<Starting_Forces> Empire, Mustafar, Dreadnaught_Empire </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Dreadnaught_Empire </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Dreadnaught_Empire </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Lancer_Frigate </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Lancer_Frigate </Starting_Forces>
+		
+		
+		<Starting_Forces> Eriadu_Authority, Eriadu, Eriadu_Capital </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Eriadu_MoffPalace </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, A_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, A_Ground_Light_Vehicle_Factory </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Imperial_AT_AT_Company </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Imperial_1H_Tank_Company </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Imperial_1L_Tank_Company </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Imperial_Army_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Eriadu_Authority, Eriadu, Generic_Victory_Destroyer_Two </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Generic_Star_Destroyer_Two </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Arquitens </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Arquitens </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Arquitens </Starting_Forces>
+		
+		
+		<Starting_Forces> Eriadu_Authority, Eiattu, Generate_Force </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Kabal, Generate_Force </Starting_Forces>
+		<Starting_Forces> Greater_Maldrood, Roche, Generate_Force </Starting_Forces>
+		<Starting_Forces> Greater_Maldrood, Centares, Generate_Force </Starting_Forces>
+		
+		<Starting_Forces> Warlords, Vulpter, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Rutan, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Heriston, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Tosste, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Elrood, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Polis_Massa, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Sullust, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Sluis_Van, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Kriselist, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Vondarc, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Belsavis, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Woostri, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Wroona, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, YagDhul, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Fondor, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Bestine, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Thyferra, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Moorja, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Bespin, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Hoth, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Kashyyyk, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Chardaan, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Alsakan, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Carida, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Lantillies, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Togoria, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Metalorn, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Bothawui, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Tatooine, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Naboo, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Ryloth, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Corellia, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Iphigin, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Had_Abbadon, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Kuar, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Commenor, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Loedorvia, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Giju, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Necropolis, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Kessel, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, The_Maw, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Sleheyron, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Da_Soocha, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Daupherm, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Atrisia, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Jerrilek, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Lettow, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Ottabesk, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Shumavar, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Stewjon, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, SurdNebula, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, TarkinsFang, Generate_Force </Starting_Forces>
+		
+		<Starting_Forces> Warlords, TarkinsFang, Generic_Star_Destroyer </Starting_Forces>
+		<Starting_Forces> Warlords, TarkinsFang, Generic_Star_Destroyer </Starting_Forces>
+		<Starting_Forces> Warlords, TarkinsFang, Lancer_Frigate </Starting_Forces>
+		<Starting_Forces> Warlords, TarkinsFang, Lancer_Frigate </Starting_Forces>
+		<Starting_Forces> Warlords, TarkinsFang, Lancer_Frigate </Starting_Forces>
+		<Starting_Forces> Warlords, TarkinsFang, Carrack_Cruiser </Starting_Forces>
+		<Starting_Forces> Warlords, TarkinsFang, Carrack_Cruiser </Starting_Forces>
+		<Starting_Forces> Warlords, TarkinsFang, Generic_Star_Destroyer_Two </Starting_Forces>
 		
 		<!-- Kalist Space Forces -->
 		<Starting_Forces> Empire, Kalist, Empire_Star_Base_2 </Starting_Forces>
@@ -549,8 +812,8 @@ EA position has a pretty rough postion overall, but they'll get Cronus on Night 
 		<Starting_Forces> Greater_Maldrood, Columus, Imperial_Army_Trooper_Squad </Starting_Forces>
 	</Campaign>
 
-	<Campaign Name="Sandbox_DeepCoreConflict_Era_4_2_Greater_Maldrood">
-		<Campaign_Set>Sandbox_DeepCoreConflict_Era_4_2</Campaign_Set>
+	<Campaign Name="Sandbox_DeepCoreConflict_2_Era_4_Greater_Maldrood">
+		<Campaign_Set>Sandbox_DeepCoreConflict_2_Era_4</Campaign_Set>
 		
 		<Sort_Order>006</Sort_Order>
 		<Is_Listed>False</Is_Listed>
@@ -647,6 +910,109 @@ EA position has a pretty rough postion overall, but they'll get Cronus on Night 
 		</Locations>
 		<Trade_Routes>
 			Abregado_Rae_Thomork,
+			
+			RBC_Eriadu_Sluis_Van,
+			RBC_Polis_Massa_Rutan,
+			RBC_Commenor_Corellia,
+			RBC_Atravis_Shumavar,
+			RBC_Khomm_Thomork,
+			RBC_Mustafar_SurdNebula,
+			RBC_Foerost_Kuar,
+			RBC_Eriadu_Shumavar,
+			RBC_Da_Soocha_Ryloth,
+			RBC_Da_Soocha_Sleheyron,
+			RBC_Abregado_Rae_Iphigin,
+			RBC_Thyferra_YagDhul,
+			RBC_Rutan_Tosste,
+			RBC_Bothawui_Tatooine,
+			RBC_Commenor_Kashyyyk,
+			RBC_Abregado_Rae_Belgaroth,
+			RBC_Kashyyyk_Sleheyron,
+			RBC_Metalorn_Roche,
+			RBC_Naboo_Tatooine,
+			RBC_Ebaq_Had_Abbadon,
+			RBC_Belsavis_Eiattu,
+			RBC_Bestine_Fondor,
+			RBC_Bothawui_Sleheyron,
+			RBC_Empress_Teta_Stewjon,
+			RBC_Chardaan_Commenor,
+			RBC_Bothawui_Da_Soocha,
+			RBC_Centares_Metalorn,
+			RBC_Kriselist_Moorja,
+			RBC_Bestine_Chardaan,
+			RBC_Lantillies_Roche,
+			RBC_Kessel_Sleheyron,
+			RBC_Kessel_The_Maw,
+			RBC_Ojom_Ottabesk,
+			RBC_Ebaq_TarkinsFang,
+			RBC_Alsakan_Foerost,
+			RBC_Jerrilek_Stewjon,
+			RBC_Vondarc_Woostri,
+			RBC_Bestine_Thyferra,
+			RBC_Abregado_Rae_Fondor,
+			RBC_Alsakan_Kaikielius,
+			RBC_Kabal_Naboo,
+			RBC_Ryloth_Tatooine,
+			RBC_Deep3_Kalist,
+			RBC_Chardaan_Naboo,
+			RBC_Fondor_Thyferra,
+			RBC_Columus_Lettow,
+			RBC_Belsavis_Eriadu,
+			RBC_Belsavis_Bespin,
+			RBC_Eriadu_Sullust,
+			RBC_Carida_Vulpter,
+			RBC_Loedorvia_Necropolis,
+			RBC_Khomm_Ottabesk,
+			RBC_Jerrilek_Kuar,
+			RBC_Kashyyyk_Togoria,
+			RBC_Sullust_Vondarc,
+			RBC_Atravis_Mustafar,
+			RBC_Atrisia_Necropolis,
+			RBC_Naboo_Ryloth,
+			RBC_Atravis_Tosste,
+			RBC_Eriadu_Kabal,
+			RBC_Woostri_Wroona,
+			RBC_Bothawui_Kashyyyk,
+			RBC_Jerrilek_Prakith,
+			RBC_Belgaroth_Giju,
+			RBC_Hakassi_Ottabesk,
+			RBC_Daupherm_Loedorvia,
+			RBC_Foerost_Jerrilek,
+			RBC_Heriston_Mustafar,
+			RBC_Eclipse_Ottabesk,
+			RBC_Naboo_Sullust,
+			RBC_Hoth_Polis_Massa,
+			RBC_Bothawui_Naboo,
+			RBC_Carida_Corellia,
+			RBC_Fondor_Iphigin,
+			RBC_Elrood_Sluis_Van,
+			RBC_Lettow_Ottabesk,
+			RBC_Roche_Togoria,
+			RBC_Lantillies_Togoria,
+			RBC_Naboo_Vondarc,
+			RBC_Fondor_YagDhul,
+			RBC_Abregado_Rae_Giju,
+			RBC_Abregado_Rae_Daupherm,
+			RBC_Kabal_Sluis_Van,
+			RBC_Bespin_Kriselist,
+			RBC_Giju_Necropolis,
+			RBC_Centares_Roche,
+			RBC_Heriston_SurdNebula,
+			RBC_Carida_Lantillies,
+			RBC_Had_Abbadon_Tsoss,
+			RBC_Fondor_Giju,
+			RBC_Alsakan_Carida,
+			RBC_Moorja_YagDhul,
+			RBC_Bestine_Corellia,
+			RBC_Mustafar_Rutan,
+			RBC_Kaikielius_Vulpter,
+			RBC_Da_Soocha_Kessel,
+			RBC_Bespin_Hoth,
+			RBC_Alsakan_Cal_Seti,
+			RBC_Wroona_YagDhul,
+			RBC_Carida_Commenor,
+			RBC_Eiattu_Vondarc,
+			
 			Cal_Seti_Foerost,
 			Cal_Seti_Galantos,
 			Cal_Seti_Odik,
@@ -676,8 +1042,8 @@ EA position has a pretty rough postion overall, but they'll get Cronus on Night 
 		<Home_Location> Warlords, Odik </Home_Location>
 
         <Starting_Active_Player> Greater_Maldrood </Starting_Active_Player>
-		<Empire_Story_Name>Conquests\DeepCore\Story_Plots_Sandbox_Core_Empire.xml</Empire_Story_Name>
-		<Underworld_Story_Name>Conquests\DeepCore\Story_Plots_Sandbox_Core_Container.xml</Underworld_Story_Name>
+		<Empire_Story_Name>Conquests\DeepCore2\Story_Plots_Sandbox_Core_Empire.xml</Empire_Story_Name>
+		<Underworld_Story_Name>Conquests\DeepCore2\Story_Plots_Sandbox_Core_Container.xml</Underworld_Story_Name>
 		
 		<Story_Name>
 			EmpireoftheHand, Conquests\Story_Plots_Generic_EmpireoftheHand.xml, 
@@ -750,6 +1116,166 @@ EA position has a pretty rough postion overall, but they'll get Cronus on Night 
 		<Starting_Credits> Empire,  3000 </Starting_Credits>
 		<Starting_Tech_Level> Empire, 1 </Starting_Tech_Level>
 		<Max_Tech_Level> Empire, 3 </Max_Tech_Level>
+
+
+		<!-- Deep3 Space Forces -->
+		<Starting_Forces> Empire, Deep3, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Empire, Deep3, Empire_Shipyard_Level_Four </Starting_Forces>
+		<Starting_Forces> Empire, Deep3, Generic_Star_Destroyer </Starting_Forces>
+		<Starting_Forces> Empire, Deep3, Dreadnaught_Empire </Starting_Forces>
+		<Starting_Forces> Empire, Deep3, Carrack_Cruiser </Starting_Forces>
+		<Starting_Forces> Empire, Deep3, Lancer_Frigate </Starting_Forces>
+		
+		
+		<Starting_Forces> Empire, Khomm, Empire_MoffPalace </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, E_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Tax_Agency </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Empire_Shipyard_Level_Two </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Imperial_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Imperial_Chariot_LAV_Company </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Imperial_Army_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Empire, Khomm, Generic_Star_Destroyer_Two </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Generic_Victory_Destroyer </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Dreadnaught_Empire </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Carrack_Cruiser </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Lancer_Frigate </Starting_Forces>
+		
+		
+		<Starting_Forces> Empire, Belgaroth, Empire_MoffPalace </Starting_Forces>
+		<Starting_Forces> Empire, Belgaroth, E_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Empire, Belgaroth, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Belgaroth, Tax_Agency </Starting_Forces>
+		<Starting_Forces> Empire, Belgaroth, Empire_Shipyard_Level_Two </Starting_Forces>
+		<Starting_Forces> Empire, Belgaroth, Imperial_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Empire, Belgaroth, Imperial_Chariot_LAV_Company </Starting_Forces>
+		<Starting_Forces> Empire, Belgaroth, Imperial_Army_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Empire, Belgaroth, Generic_Tector </Starting_Forces>
+		<Starting_Forces> Empire, Belgaroth, Lancer_Frigate </Starting_Forces>
+		
+		
+		<Starting_Forces> Empire, Atravis, Empire_MoffPalace </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, E_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Tax_Agency </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Tax_Agency </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Local_Infrastructure </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Naval_Academy </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Empire_Shipyard_Level_Two </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Imperial_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Imperial_Chariot_LAV_Company </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Imperial_Army_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Imperial_Army_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Imperial_Army_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Imperial_Army_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Empire, Atravis, Generic_Allegiance </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Lancer_Frigate </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Lancer_Frigate </Starting_Forces>
+		
+		
+		<Starting_Forces> Empire, Mustafar, Empire_MoffPalace </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Mining_Facility </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Empire_Shipyard_Level_Two </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Generic_TradeStation </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Imperial_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Imperial_Chariot_LAV_Company </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Imperial_Army_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Imperial_A5RX_Company </Starting_Forces>
+		
+		<Starting_Forces> Empire, Mustafar, Dreadnaught_Empire </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Dreadnaught_Empire </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Dreadnaught_Empire </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Lancer_Frigate </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Lancer_Frigate </Starting_Forces>
+		
+		
+		<Starting_Forces> Eriadu_Authority, Eriadu, Eriadu_Capital </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Eriadu_MoffPalace </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, A_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, A_Ground_Light_Vehicle_Factory </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Imperial_AT_AT_Company </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Imperial_1H_Tank_Company </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Imperial_1L_Tank_Company </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Imperial_Army_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Eriadu_Authority, Eriadu, Generic_Victory_Destroyer_Two </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Generic_Star_Destroyer_Two </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Arquitens </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Arquitens </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Arquitens </Starting_Forces>
+		
+		
+		<Starting_Forces> Eriadu_Authority, Eiattu, Generate_Force </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Kabal, Generate_Force </Starting_Forces>
+		<Starting_Forces> Greater_Maldrood, Roche, Generate_Force </Starting_Forces>
+		<Starting_Forces> Greater_Maldrood, Centares, Generate_Force </Starting_Forces>
+		
+		<Starting_Forces> Warlords, Vulpter, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Rutan, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Heriston, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Tosste, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Elrood, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Polis_Massa, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Sullust, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Sluis_Van, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Kriselist, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Vondarc, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Belsavis, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Woostri, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Wroona, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, YagDhul, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Fondor, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Bestine, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Thyferra, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Moorja, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Bespin, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Hoth, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Kashyyyk, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Chardaan, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Alsakan, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Carida, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Lantillies, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Togoria, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Metalorn, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Bothawui, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Tatooine, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Naboo, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Ryloth, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Corellia, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Iphigin, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Had_Abbadon, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Kuar, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Commenor, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Loedorvia, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Giju, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Necropolis, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Kessel, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, The_Maw, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Sleheyron, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Da_Soocha, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Daupherm, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Atrisia, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Jerrilek, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Lettow, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Ottabesk, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Shumavar, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Stewjon, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, SurdNebula, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, TarkinsFang, Generate_Force </Starting_Forces>
+		
+		<Starting_Forces> Warlords, TarkinsFang, Generic_Star_Destroyer </Starting_Forces>
+		<Starting_Forces> Warlords, TarkinsFang, Generic_Star_Destroyer </Starting_Forces>
+		<Starting_Forces> Warlords, TarkinsFang, Lancer_Frigate </Starting_Forces>
+		<Starting_Forces> Warlords, TarkinsFang, Lancer_Frigate </Starting_Forces>
+		<Starting_Forces> Warlords, TarkinsFang, Lancer_Frigate </Starting_Forces>
+		<Starting_Forces> Warlords, TarkinsFang, Carrack_Cruiser </Starting_Forces>
+		<Starting_Forces> Warlords, TarkinsFang, Carrack_Cruiser </Starting_Forces>
+		<Starting_Forces> Warlords, TarkinsFang, Generic_Star_Destroyer_Two </Starting_Forces>
+
 		
 		<!-- Kalist Space Forces -->
 		<Starting_Forces> Empire, Kalist, Empire_Star_Base_2 </Starting_Forces>
@@ -1088,8 +1614,8 @@ EA position has a pretty rough postion overall, but they'll get Cronus on Night 
 		<Starting_Forces> Greater_Maldrood, Columus, Imperial_Army_Trooper_Squad </Starting_Forces>
 	</Campaign>
 
-	<Campaign Name="Sandbox_DeepCoreConflict_Era_4_2_Eriadu_Authority">
-		<Campaign_Set>Sandbox_DeepCoreConflict_Era_4_2</Campaign_Set>
+	<Campaign Name="Sandbox_DeepCoreConflict_2_Era_4_Eriadu_Authority">
+		<Campaign_Set>Sandbox_DeepCoreConflict_2_Era_4</Campaign_Set>
 		
 		<Sort_Order>006</Sort_Order>
 		<Is_Listed>False</Is_Listed>
@@ -1186,6 +1712,109 @@ EA position has a pretty rough postion overall, but they'll get Cronus on Night 
 		</Locations>
 		<Trade_Routes>
 			Abregado_Rae_Thomork,
+			
+			RBC_Eriadu_Sluis_Van,
+			RBC_Polis_Massa_Rutan,
+			RBC_Commenor_Corellia,
+			RBC_Atravis_Shumavar,
+			RBC_Khomm_Thomork,
+			RBC_Mustafar_SurdNebula,
+			RBC_Foerost_Kuar,
+			RBC_Eriadu_Shumavar,
+			RBC_Da_Soocha_Ryloth,
+			RBC_Da_Soocha_Sleheyron,
+			RBC_Abregado_Rae_Iphigin,
+			RBC_Thyferra_YagDhul,
+			RBC_Rutan_Tosste,
+			RBC_Bothawui_Tatooine,
+			RBC_Commenor_Kashyyyk,
+			RBC_Abregado_Rae_Belgaroth,
+			RBC_Kashyyyk_Sleheyron,
+			RBC_Metalorn_Roche,
+			RBC_Naboo_Tatooine,
+			RBC_Ebaq_Had_Abbadon,
+			RBC_Belsavis_Eiattu,
+			RBC_Bestine_Fondor,
+			RBC_Bothawui_Sleheyron,
+			RBC_Empress_Teta_Stewjon,
+			RBC_Chardaan_Commenor,
+			RBC_Bothawui_Da_Soocha,
+			RBC_Centares_Metalorn,
+			RBC_Kriselist_Moorja,
+			RBC_Bestine_Chardaan,
+			RBC_Lantillies_Roche,
+			RBC_Kessel_Sleheyron,
+			RBC_Kessel_The_Maw,
+			RBC_Ojom_Ottabesk,
+			RBC_Ebaq_TarkinsFang,
+			RBC_Alsakan_Foerost,
+			RBC_Jerrilek_Stewjon,
+			RBC_Vondarc_Woostri,
+			RBC_Bestine_Thyferra,
+			RBC_Abregado_Rae_Fondor,
+			RBC_Alsakan_Kaikielius,
+			RBC_Kabal_Naboo,
+			RBC_Ryloth_Tatooine,
+			RBC_Deep3_Kalist,
+			RBC_Chardaan_Naboo,
+			RBC_Fondor_Thyferra,
+			RBC_Columus_Lettow,
+			RBC_Belsavis_Eriadu,
+			RBC_Belsavis_Bespin,
+			RBC_Eriadu_Sullust,
+			RBC_Carida_Vulpter,
+			RBC_Loedorvia_Necropolis,
+			RBC_Khomm_Ottabesk,
+			RBC_Jerrilek_Kuar,
+			RBC_Kashyyyk_Togoria,
+			RBC_Sullust_Vondarc,
+			RBC_Atravis_Mustafar,
+			RBC_Atrisia_Necropolis,
+			RBC_Naboo_Ryloth,
+			RBC_Atravis_Tosste,
+			RBC_Eriadu_Kabal,
+			RBC_Woostri_Wroona,
+			RBC_Bothawui_Kashyyyk,
+			RBC_Jerrilek_Prakith,
+			RBC_Belgaroth_Giju,
+			RBC_Hakassi_Ottabesk,
+			RBC_Daupherm_Loedorvia,
+			RBC_Foerost_Jerrilek,
+			RBC_Heriston_Mustafar,
+			RBC_Eclipse_Ottabesk,
+			RBC_Naboo_Sullust,
+			RBC_Hoth_Polis_Massa,
+			RBC_Bothawui_Naboo,
+			RBC_Carida_Corellia,
+			RBC_Fondor_Iphigin,
+			RBC_Elrood_Sluis_Van,
+			RBC_Lettow_Ottabesk,
+			RBC_Roche_Togoria,
+			RBC_Lantillies_Togoria,
+			RBC_Naboo_Vondarc,
+			RBC_Fondor_YagDhul,
+			RBC_Abregado_Rae_Giju,
+			RBC_Abregado_Rae_Daupherm,
+			RBC_Kabal_Sluis_Van,
+			RBC_Bespin_Kriselist,
+			RBC_Giju_Necropolis,
+			RBC_Centares_Roche,
+			RBC_Heriston_SurdNebula,
+			RBC_Carida_Lantillies,
+			RBC_Had_Abbadon_Tsoss,
+			RBC_Fondor_Giju,
+			RBC_Alsakan_Carida,
+			RBC_Moorja_YagDhul,
+			RBC_Bestine_Corellia,
+			RBC_Mustafar_Rutan,
+			RBC_Kaikielius_Vulpter,
+			RBC_Da_Soocha_Kessel,
+			RBC_Bespin_Hoth,
+			RBC_Alsakan_Cal_Seti,
+			RBC_Wroona_YagDhul,
+			RBC_Carida_Commenor,
+			RBC_Eiattu_Vondarc,
+			
 			Cal_Seti_Foerost,
 			Cal_Seti_Galantos,
 			Cal_Seti_Odik,
@@ -1215,8 +1844,8 @@ EA position has a pretty rough postion overall, but they'll get Cronus on Night 
 		<Home_Location> Warlords, Odik </Home_Location>
 
         <Starting_Active_Player> Eriadu_Authority </Starting_Active_Player>
-		<Empire_Story_Name>Conquests\DeepCore\Story_Plots_Sandbox_Core_Empire.xml</Empire_Story_Name>
-		<Underworld_Story_Name>Conquests\DeepCore\Story_Plots_Sandbox_Core_Container.xml</Underworld_Story_Name>
+		<Empire_Story_Name>Conquests\DeepCore2\Story_Plots_Sandbox_Core_Empire.xml</Empire_Story_Name>
+		<Underworld_Story_Name>Conquests\DeepCore2\Story_Plots_Sandbox_Core_Container.xml</Underworld_Story_Name>
 		
 		<Story_Name>
 			EmpireoftheHand, Conquests\Story_Plots_Generic_EmpireoftheHand.xml, 
@@ -1289,6 +1918,166 @@ EA position has a pretty rough postion overall, but they'll get Cronus on Night 
 		<Starting_Credits> Empire,  3000 </Starting_Credits>
 		<Starting_Tech_Level> Empire, 1 </Starting_Tech_Level>
 		<Max_Tech_Level> Empire, 3 </Max_Tech_Level>
+
+
+<!-- Deep3 Space Forces -->
+		<Starting_Forces> Empire, Deep3, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Empire, Deep3, Empire_Shipyard_Level_Four </Starting_Forces>
+		<Starting_Forces> Empire, Deep3, Generic_Star_Destroyer </Starting_Forces>
+		<Starting_Forces> Empire, Deep3, Dreadnaught_Empire </Starting_Forces>
+		<Starting_Forces> Empire, Deep3, Carrack_Cruiser </Starting_Forces>
+		<Starting_Forces> Empire, Deep3, Lancer_Frigate </Starting_Forces>
+		
+		
+		<Starting_Forces> Empire, Khomm, Empire_MoffPalace </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, E_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Tax_Agency </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Empire_Shipyard_Level_Two </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Imperial_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Imperial_Chariot_LAV_Company </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Imperial_Army_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Empire, Khomm, Generic_Star_Destroyer_Two </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Generic_Victory_Destroyer </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Dreadnaught_Empire </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Carrack_Cruiser </Starting_Forces>
+		<Starting_Forces> Empire, Khomm, Lancer_Frigate </Starting_Forces>
+		
+		
+		<Starting_Forces> Empire, Belgaroth, Empire_MoffPalace </Starting_Forces>
+		<Starting_Forces> Empire, Belgaroth, E_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Empire, Belgaroth, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Belgaroth, Tax_Agency </Starting_Forces>
+		<Starting_Forces> Empire, Belgaroth, Empire_Shipyard_Level_Two </Starting_Forces>
+		<Starting_Forces> Empire, Belgaroth, Imperial_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Empire, Belgaroth, Imperial_Chariot_LAV_Company </Starting_Forces>
+		<Starting_Forces> Empire, Belgaroth, Imperial_Army_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Empire, Belgaroth, Generic_Tector </Starting_Forces>
+		<Starting_Forces> Empire, Belgaroth, Lancer_Frigate </Starting_Forces>
+		
+		
+		<Starting_Forces> Empire, Atravis, Empire_MoffPalace </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, E_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Tax_Agency </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Tax_Agency </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Local_Infrastructure </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Naval_Academy </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Empire_Shipyard_Level_Two </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Imperial_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Imperial_Chariot_LAV_Company </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Imperial_Army_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Imperial_Army_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Imperial_Army_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Imperial_Army_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Empire, Atravis, Generic_Allegiance </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Lancer_Frigate </Starting_Forces>
+		<Starting_Forces> Empire, Atravis, Lancer_Frigate </Starting_Forces>
+		
+		
+		<Starting_Forces> Empire, Mustafar, Empire_MoffPalace </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Mining_Facility </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Empire_Shipyard_Level_Two </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Generic_TradeStation </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Imperial_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Imperial_Chariot_LAV_Company </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Imperial_Army_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Imperial_A5RX_Company </Starting_Forces>
+		
+		<Starting_Forces> Empire, Mustafar, Dreadnaught_Empire </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Dreadnaught_Empire </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Dreadnaught_Empire </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Lancer_Frigate </Starting_Forces>
+		<Starting_Forces> Empire, Mustafar, Lancer_Frigate </Starting_Forces>
+		
+		
+		<Starting_Forces> Eriadu_Authority, Eriadu, Eriadu_Capital </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Eriadu_MoffPalace </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, A_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, A_Ground_Light_Vehicle_Factory </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Imperial_AT_AT_Company </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Imperial_1H_Tank_Company </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Imperial_1L_Tank_Company </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Imperial_Army_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Eriadu_Authority, Eriadu, Generic_Victory_Destroyer_Two </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Generic_Star_Destroyer_Two </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Arquitens </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Arquitens </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Eriadu, Arquitens </Starting_Forces>
+		
+		
+		<Starting_Forces> Eriadu_Authority, Eiattu, Generate_Force </Starting_Forces>
+		<Starting_Forces> Eriadu_Authority, Kabal, Generate_Force </Starting_Forces>
+		<Starting_Forces> Greater_Maldrood, Roche, Generate_Force </Starting_Forces>
+		<Starting_Forces> Greater_Maldrood, Centares, Generate_Force </Starting_Forces>
+		
+		<Starting_Forces> Warlords, Vulpter, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Rutan, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Heriston, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Tosste, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Elrood, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Polis_Massa, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Sullust, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Sluis_Van, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Kriselist, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Vondarc, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Belsavis, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Woostri, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Wroona, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, YagDhul, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Fondor, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Bestine, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Thyferra, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Moorja, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Bespin, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Hoth, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Kashyyyk, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Chardaan, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Alsakan, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Carida, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Lantillies, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Togoria, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Metalorn, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Bothawui, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Tatooine, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Naboo, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Ryloth, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Corellia, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Iphigin, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Had_Abbadon, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Kuar, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Commenor, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Loedorvia, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Giju, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Necropolis, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Kessel, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, The_Maw, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Sleheyron, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Da_Soocha, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Daupherm, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Atrisia, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Jerrilek, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Lettow, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Ottabesk, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Shumavar, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, Stewjon, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, SurdNebula, Generate_Force </Starting_Forces>
+		<Starting_Forces> Warlords, TarkinsFang, Generate_Force </Starting_Forces>
+		
+		<Starting_Forces> Warlords, TarkinsFang, Generic_Star_Destroyer </Starting_Forces>
+		<Starting_Forces> Warlords, TarkinsFang, Generic_Star_Destroyer </Starting_Forces>
+		<Starting_Forces> Warlords, TarkinsFang, Lancer_Frigate </Starting_Forces>
+		<Starting_Forces> Warlords, TarkinsFang, Lancer_Frigate </Starting_Forces>
+		<Starting_Forces> Warlords, TarkinsFang, Lancer_Frigate </Starting_Forces>
+		<Starting_Forces> Warlords, TarkinsFang, Carrack_Cruiser </Starting_Forces>
+		<Starting_Forces> Warlords, TarkinsFang, Carrack_Cruiser </Starting_Forces>
+		<Starting_Forces> Warlords, TarkinsFang, Generic_Star_Destroyer_Two </Starting_Forces>
+
 		
 		<!-- Kalist Space Forces -->
 		<Starting_Forces> Empire, Kalist, Empire_Star_Base_2 </Starting_Forces>

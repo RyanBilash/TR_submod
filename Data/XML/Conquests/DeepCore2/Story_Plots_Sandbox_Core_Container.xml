@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 
 <Story_Mode_Plots>
-	<Lua_Script>GCDeepCore</Lua_Script>
+	<Lua_Script>GCDeepCore_2</Lua_Script>
 	<Active_Plot>Conquests\DeepCore2\Story_Sandbox_Core_Container.XML</Active_Plot>
 	
 	<Active_Plot>Conquests\Events\EventLogRepository.XML</Active_Plot>

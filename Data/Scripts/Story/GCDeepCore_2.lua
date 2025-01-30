@@ -89,7 +89,7 @@ function Era_Setup(message)
         techLevel = (credits / 1000) + 1
 		
 		p_maldrood.Give_Money(8000-credits)
-		p_harrsk.Give_Money(8000-credits)
+		p_harrsk.Give_Money(50000-credits)
 		p_eriadu.Give_Money(8000-credits)
 		p_yzu.Give_Money(8000-credits)
 				

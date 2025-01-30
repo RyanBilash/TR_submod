@@ -5985,14 +5985,14 @@
 
 		<No_Colorization_Color> 255, 255, 255, 255 </No_Colorization_Color>
 		
-		<Affiliation>Corporate_Sector, Independent_Forces</Affiliation>
+		<Affiliation>Empire, Corporate_Sector, Independent_Forces</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		
 		<Required_Special_Structures>
-		CSA_Ship_Market,
+		CSA_Ship_Market | Empire_Shipyard_Level_Four,
 		AI_Category_Dummy | Dreadnought_Category_Dummy		
 		</Required_Special_Structures>
 		
@@ -6127,7 +6127,7 @@
 		<Autoresolve_Health>20310</Autoresolve_Health>
 		<Damage>18000</Damage>
 		
-		<Affiliation>Greater_Maldrood, Eriadu_Authority, Independent_Forces</Affiliation>
+		<Affiliation>Empire, Greater_Maldrood, Eriadu_Authority, Independent_Forces</Affiliation>
 		<Political_Control/>
 		<Maintenance_Cost>216</Maintenance_Cost>
 
@@ -6153,7 +6153,7 @@
 		<Slice_Cost_Credits>2000</Slice_Cost_Credits>
 		<Required_Special_Structures>
 		Eriadu_Shipyard_Level_Four |
-		Greater_Maldrood_Shipyard_Level_Four,
+		Greater_Maldrood_Shipyard_Level_Four | Empire_Shipyard_Level_Four,
 		AI_Category_Dummy | Dreadnought_Category_Dummy</Required_Special_Structures>
 		<Build_Time_Reduced_By_Multiple_Factories>yes</Build_Time_Reduced_By_Multiple_Factories>
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
@@ -6349,7 +6349,7 @@
 		<Autoresolve_Health>56550</Autoresolve_Health>
 		<Damage>18000</Damage>
 		
-		<Affiliation>Pentastar, Independent_Forces</Affiliation>
+		<Affiliation>Empire, Pentastar, Independent_Forces</Affiliation>
 		<Political_Control/>
 		<Maintenance_Cost>216</Maintenance_Cost>
 
@@ -6374,7 +6374,7 @@
 		<Build_Time_Seconds>360</Build_Time_Seconds>
 		<Slice_Cost_Credits>2000</Slice_Cost_Credits>
 		<Required_Special_Structures>
-		Pentastar_Shipyard_Level_Four,
+		Pentastar_Shipyard_Level_Four | Empire_Shipyard_Level_Four,
 		AI_Category_Dummy | Dreadnought_Category_Dummy
 		</Required_Special_Structures>
 		<Build_Time_Reduced_By_Multiple_Factories>yes</Build_Time_Reduced_By_Multiple_Factories>

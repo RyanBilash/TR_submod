@@ -31,13 +31,21 @@
 		<Prereq>Universal_Story_Start</Prereq>
 	</Event>
 	
-	<Event Name="E_Lock_Executor">
+	<!--<Event Name="E_Lock_Executor">
 		<Event_Type>STORY_ELAPSED</Event_Type>
 		<Event_Param1>3</Event_Param1>
 		<Reward_Type>LOCK_UNIT</Reward_Type>
 		<Reward_Param1>Generic_Executor</Reward_Param1>
 		<Prereq>Universal_Story_Start</Prereq>
 	</Event>
+	<Event Name="E_Lock_Praetor_II">
+		<Event_Type>STORY_ELAPSED</Event_Type>
+		<Event_Param1>3</Event_Param1>
+		<Reward_Type>LOCK_UNIT</Reward_Type>
+		<Reward_Param1>Generic_Praetor</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>-->
+	
 	
 	<Event Name="E_Lock_Sovereign">
 		<Event_Type>STORY_ELAPSED</Event_Type>
@@ -55,13 +63,7 @@
 		<Prereq>Universal_Story_Start</Prereq>
 	</Event>
 	
-	<Event Name="E_Lock_Praetor_II">
-		<Event_Type>STORY_ELAPSED</Event_Type>
-		<Event_Param1>3</Event_Param1>
-		<Reward_Type>LOCK_UNIT</Reward_Type>
-		<Reward_Param1>Generic_Praetor</Reward_Param1>
-		<Prereq>Universal_Story_Start</Prereq>
-	</Event>
+	
 	
 	<Event Name="E_Lock_Venator_Open">
 		<Event_Type>STORY_ELAPSED</Event_Type>
@@ -235,6 +237,28 @@
 		<Event_Param1>3</Event_Param1>
 		<Reward_Type>BUILDABLE_UNIT</Reward_Type>
 		<Reward_Param1>Generic_Allegiance</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="E_Unlock_Mandator_II">
+		<Event_Type>STORY_ELAPSED</Event_Type>
+		<Event_Param1>3</Event_Param1>
+		<Reward_Type>BUILDABLE_UNIT</Reward_Type>
+		<Reward_Param1>Generic_Mandator_II</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+	<Event Name="E_Unlock_Mandator_III">
+		<Event_Type>STORY_ELAPSED</Event_Type>
+		<Event_Param1>3</Event_Param1>
+		<Reward_Type>BUILDABLE_UNIT</Reward_Type>
+		<Reward_Param1>Generic_Mandator_III</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+	<Event Name="E_Unlock_Bellator">
+		<Event_Type>STORY_ELAPSED</Event_Type>
+		<Event_Param1>3</Event_Param1>
+		<Reward_Type>BUILDABLE_UNIT</Reward_Type>
+		<Reward_Param1>Generic_Bellator</Reward_Param1>
 		<Prereq>Universal_Story_Start</Prereq>
 	</Event>
 	
